@@ -1,0 +1,1515 @@
+2024-11-16 15:52:48,740 - Inserted transaction de80e45b-1340-4149-b94c-01aa56d2ed08
+2024-11-16 15:52:48,741 - Inserted transaction d42ab521-3d5c-4de8-aad6-8d31c7b376d4
+2024-11-16 15:52:48,741 - Inserted transaction db61cd04-75b8-407a-82fd-5dd4aa0bb84f
+2024-11-16 15:52:48,741 - Inserted transaction e835331d-dc25-4275-b47b-9fd7fac4d094
+2024-11-16 15:52:48,742 - Inserted transaction 6bfa9c6a-5688-4f24-910a-38b0889697b6
+2024-11-16 15:52:48,742 - Inserted transaction 46f1c1f0-c334-4684-8367-abaa38aadd79
+2024-11-16 15:52:48,743 - Inserted transaction 8c8087db-5d94-41e8-abd9-337cf96817c0
+2024-11-16 15:52:48,743 - Inserted transaction 213e9afc-87d4-453f-a46a-576c645b4764
+2024-11-16 15:52:48,744 - Inserted transaction 96ff4a32-e12b-49b8-8a5a-8d0c94445295
+2024-11-16 15:52:48,744 - Inserted transaction 24ad2d59-9e62-4dec-918d-6d2df4e5cdc3
+2024-11-16 15:52:48,744 - Inserted transaction 10b3a4d6-7353-4318-9ce6-c8d033fbedec
+2024-11-16 15:52:48,744 - Inserted transaction 45ff6ff0-a0b5-4273-8247-6beedb31b574
+2024-11-16 15:52:48,745 - Inserted transaction 6bedf202-8ac3-4f2b-a050-1470de8f783d
+2024-11-16 15:52:48,745 - Inserted transaction 0debdfa9-e9be-4646-a9f9-4f94c5b7da26
+2024-11-16 15:52:48,745 - Inserted transaction 65c18c95-6e85-416f-bac2-bb4930f3ccce
+2024-11-16 15:52:48,745 - Inserted transaction 548058fa-e5e0-42df-95b1-b5d0cce22001
+2024-11-16 15:52:48,745 - Inserted transaction 87c757b1-ad88-4c9c-9641-3dba4f24a525
+2024-11-16 15:52:48,745 - Inserted transaction 85a3bac6-5e83-486a-b7b7-e59b1ba7b156
+2024-11-16 15:52:48,745 - Inserted transaction 4c1a1834-cd6a-4c84-858f-1410ff8b0bef
+2024-11-16 15:52:48,746 - Inserted transaction 6048d6d0-497a-45bd-8b39-150c77e0c89a
+2024-11-16 15:52:48,746 - Inserted transaction 07c4c339-86b5-403a-a8fe-2de6b0266257
+2024-11-16 15:52:48,746 - Inserted transaction 7c3eed4a-cdb3-4c34-b9c0-d2fd92664ab6
+2024-11-16 15:52:48,746 - Inserted transaction 999eeb6a-3bef-483d-8e7d-cee526fbbc6c
+2024-11-16 15:52:48,746 - Inserted transaction 72df1c9d-0291-4331-ac23-4e4fb1aa1124
+2024-11-16 15:52:48,747 - Inserted transaction c6bac720-853b-42a2-9bf5-4fa81219e058
+2024-11-16 15:52:48,747 - Inserted transaction 730adc35-f5a4-4277-aab9-d87ee75b0539
+2024-11-16 15:52:48,747 - Inserted transaction c2163a65-219e-4b73-8618-fec14e8adf19
+2024-11-16 15:52:48,747 - Inserted transaction 0a90819c-9919-4621-a16d-90fa84075c69
+2024-11-16 15:52:48,747 - Inserted transaction 2f37f241-ab7d-470c-93dd-92916283f9b6
+2024-11-16 15:52:48,747 - Inserted transaction 2dbd1a49-152b-4799-978d-4bc9d772a279
+2024-11-16 15:52:48,747 - Inserted transaction 73eccca5-69bd-4059-a357-e5a8d696b438
+2024-11-16 15:52:48,748 - Inserted transaction 156f05ec-0f59-41ea-928d-7546c32571e2
+2024-11-16 15:52:48,748 - Inserted transaction 6825dd3f-d42f-4f6a-ac4c-5d63fa3c404f
+2024-11-16 15:52:48,748 - Inserted transaction 5a97c4ce-724f-474b-a487-b3cf8e5e111b
+2024-11-16 15:52:48,748 - Inserted transaction c77ef5eb-6bcf-4740-a2fe-7d78f5051d1d
+2024-11-16 15:52:48,748 - Inserted transaction f331f81a-d0d3-43cf-a28f-fdc78b6042d6
+2024-11-16 15:52:48,749 - Inserted transaction 3bab24fc-c69a-4216-8f65-141cf57f6359
+2024-11-16 15:52:48,749 - Inserted transaction e180dbf2-e0eb-4acf-b53a-0525229bec5e
+2024-11-16 15:52:48,749 - Inserted transaction d5496dbd-d86c-4cb4-9872-0a950bc59aef
+2024-11-16 15:52:48,749 - Inserted transaction 87f1dc03-4a00-4071-ab6f-6a565a6e1a32
+2024-11-16 15:52:48,749 - Inserted transaction 31b57eee-a8de-403d-b727-b8fff80dc464
+2024-11-16 15:52:48,749 - Inserted transaction a040ba15-7853-423e-9ee4-be6c8f05d66b
+2024-11-16 15:52:48,749 - Inserted transaction 1276ab49-bc6b-4e9e-bb0c-de8bb69b17e4
+2024-11-16 15:52:48,750 - Inserted transaction 726b7bb5-d34c-49da-a883-cdc7a511148f
+2024-11-16 15:52:48,750 - Inserted transaction f2d2553d-7703-4a8f-a377-e97cd5c572de
+2024-11-16 15:52:48,750 - Inserted transaction 637e3e73-854b-4bb3-8393-3d374b685f10
+2024-11-16 15:52:48,750 - Inserted transaction b633ace2-458a-4313-ba22-08de64dfa008
+2024-11-16 15:52:48,750 - Inserted transaction 9fd2388f-5b60-44aa-8278-7f937a661479
+2024-11-16 15:52:48,750 - Inserted transaction 288e3e32-c2f5-47ee-93e0-68e89fafd03c
+2024-11-16 15:52:48,750 - Inserted transaction e1060c84-b5c6-466d-94c6-7a4dab9a2bb0
+2024-11-16 15:52:48,751 - Inserted transaction 1e9bcfe1-9aba-43d4-89ea-859d858a1197
+2024-11-16 15:52:48,751 - Inserted transaction 44784472-acc0-4611-b7ee-b4441c844b8a
+2024-11-16 15:52:48,751 - Inserted transaction 1ff21388-2b47-449c-a8bd-4219b6f01438
+2024-11-16 15:52:48,751 - Inserted transaction fc3fe939-80c5-4b14-b816-1a602fa9d3fa
+2024-11-16 15:52:48,751 - Inserted transaction e044a912-3b73-4eb6-bb3f-853a41466bc7
+2024-11-16 15:52:48,751 - Inserted transaction 14535f7e-dba1-4600-861b-39b0b94f22ae
+2024-11-16 15:52:48,751 - Inserted transaction f30a3a11-a183-42da-a8b9-879da8623e81
+2024-11-16 15:52:48,752 - Inserted transaction b699147a-a699-4b79-b0ad-dd5bd1fffb78
+2024-11-16 15:52:48,752 - Inserted transaction 0e8f0b84-b32c-4266-a3eb-aec1af48726f
+2024-11-16 15:52:48,752 - Inserted transaction 06e6f43b-705f-429d-bf36-38f6ef11515f
+2024-11-16 15:52:48,752 - Inserted transaction 13e3d02c-ae51-46e1-9877-519e4a7345b8
+2024-11-16 15:52:48,752 - Inserted transaction 61d5101a-b57e-425e-87aa-7d77dae6316f
+2024-11-16 15:52:48,752 - Inserted transaction db2d91e8-a749-4f20-be5a-5ea58d009eda
+2024-11-16 15:52:48,752 - Inserted transaction 74d1aaf1-e301-4f76-9abe-900e991894b4
+2024-11-16 15:52:48,753 - Inserted transaction 3054cbe8-6068-4ad3-9639-f6de4690d0dc
+2024-11-16 15:52:48,753 - Inserted transaction d79de08e-13ac-49d1-a5d7-ef6ee37a56ec
+2024-11-16 15:52:48,753 - Inserted transaction d57c334a-2325-47c7-990b-cbc309dee5bb
+2024-11-16 15:52:48,753 - Inserted transaction 33471f64-2cc1-4ba0-845c-5eb49d8e9b4e
+2024-11-16 15:52:48,753 - Inserted transaction 9845b28a-7c35-443d-98c1-ab70822e4d6e
+2024-11-16 15:52:48,753 - Inserted transaction 8f8cecec-44e2-4120-bc4c-5da043b9f3f9
+2024-11-16 15:52:48,753 - Inserted transaction 5d46c020-061e-4960-955f-f4965d1666d6
+2024-11-16 15:52:48,754 - Inserted transaction cd64c687-32f5-4824-ba5b-f28f53334b18
+2024-11-16 15:52:48,754 - Inserted transaction 2b5165fa-e4f2-438c-b92b-e50da8d5228d
+2024-11-16 15:52:48,754 - Inserted transaction b5e70a3b-2ded-4332-b705-35a913325199
+2024-11-16 15:52:48,754 - Inserted transaction 7f6d9b77-0f3d-4519-87ad-4c16e1ffaebd
+2024-11-16 15:52:48,754 - Inserted transaction 24cff808-065e-429c-95da-351fc2e6856f
+2024-11-16 15:52:48,754 - Inserted transaction 2247818e-dd3f-405d-a0e9-e402a7acf9c5
+2024-11-16 15:52:48,754 - Inserted transaction 42b02002-f836-4563-b9e2-a71c9acafaf3
+2024-11-16 15:52:48,755 - Inserted transaction 8071f849-e8aa-4b95-9715-00fbd7cf922d
+2024-11-16 15:52:48,755 - Inserted transaction 32a1bebe-31df-4566-8fc2-806e06565e51
+2024-11-16 15:52:48,755 - Inserted transaction 6932b65f-f980-4adc-a22d-58ced560e695
+2024-11-16 15:52:48,755 - Inserted transaction 0711237d-7554-4e02-b4ca-1768e590bfbb
+2024-11-16 15:52:48,755 - Inserted transaction 64326233-f845-49dc-9c02-cfe16640429d
+2024-11-16 15:52:48,755 - Inserted transaction 69c86561-9a87-4485-9859-0f4d00a85391
+2024-11-16 15:52:48,755 - Inserted transaction c12f6b11-fcf5-4c0d-99db-71df8a05fa5c
+2024-11-16 15:52:48,756 - Inserted transaction b2ca6eed-07ff-4084-96b4-b86678cd51ae
+2024-11-16 15:52:48,756 - Inserted transaction 0e51854e-f14f-40b4-bf49-3d691014a5db
+2024-11-16 15:52:48,756 - Inserted transaction 5e16a092-87af-4beb-bfa5-e97b51775251
+2024-11-16 15:52:48,756 - Inserted transaction 2b980744-e322-40bb-8d28-5f1046184667
+2024-11-16 15:52:48,756 - Inserted transaction dce727c0-1099-47ce-8b6d-382c631893e0
+2024-11-16 15:52:48,756 - Inserted transaction 30c4279b-3bcc-43b6-b401-5259b3f50d56
+2024-11-16 15:52:48,756 - Inserted transaction f5760210-19aa-4425-9f8f-1f0bcc2a3cc1
+2024-11-16 15:52:48,756 - Inserted transaction fbc51538-36a8-4416-9643-21c2a8d2966a
+2024-11-16 15:52:48,757 - Inserted transaction b40b757f-fcb0-445b-8ebe-d97831b40edb
+2024-11-16 15:52:48,757 - Inserted transaction 687e9780-bdc2-4c36-92da-fd8658217526
+2024-11-16 15:52:48,757 - Inserted transaction 1fb80937-d63b-4532-bf9c-2b6b7e28d807
+2024-11-16 15:52:48,757 - Inserted transaction 2d015226-45f0-4ed3-8f03-36d488197fb6
+2024-11-16 15:52:48,757 - Inserted transaction 2dc03aff-bf5b-4e9d-9dee-1671b0c07dcc
+2024-11-16 15:52:48,757 - Inserted transaction 0a0a3f7a-92e2-4055-8a5c-e16f863a9395
+2024-11-16 15:52:48,758 - Inserted transaction c6f9d487-e614-4558-bb4f-cddc0ed08774
+2024-11-16 15:52:48,776 - Total inserted: 100, Total not inserted: 0
+2024-11-16 15:53:21,497 - Inserted transaction 7e6fc1fd-f87d-4171-9f39-5b727845ed15
+2024-11-16 15:53:21,498 - Inserted transaction 458b0c71-6f8b-47a8-bc2b-ab109006d07c
+2024-11-16 15:53:21,499 - Inserted transaction e2f7084c-ca58-4736-989e-a23a03a8ea86
+2024-11-16 15:53:21,500 - Inserted transaction dfe76134-3bbf-48ca-8741-330324711d8c
+2024-11-16 15:53:21,501 - Inserted transaction 01a33e68-b924-41c2-a234-3a131f87892b
+2024-11-16 15:53:21,501 - Inserted transaction e68fe3f9-d820-46d3-a877-e41bc193d88a
+2024-11-16 15:53:21,503 - Inserted transaction 32cfb22a-f426-4ccb-96cb-9c048050e970
+2024-11-16 15:53:21,503 - Inserted transaction 5dafa5bf-9739-427c-929c-7272605f4d87
+2024-11-16 15:53:21,504 - Inserted transaction 5dd021bf-32eb-499b-a0da-c9a2fd231c6f
+2024-11-16 15:53:21,505 - Inserted transaction a0ffdf92-951c-4e30-9b7a-cf37c7f56022
+2024-11-16 15:53:21,505 - Inserted transaction 8c4f390d-9eda-4795-b768-6d5553ab08df
+2024-11-16 15:53:21,506 - Inserted transaction 49e16a85-8eee-4a4d-a0f9-d115c85027da
+2024-11-16 15:53:21,507 - Inserted transaction 4b6ed377-879b-4a99-93e1-67fe0b1d5b9c
+2024-11-16 15:53:21,507 - Inserted transaction d4e9b71d-755c-4079-a21a-0c04038688c5
+2024-11-16 15:53:21,508 - Inserted transaction 497d2d0c-271b-4492-8def-d215a60c4e3e
+2024-11-16 15:53:21,508 - Inserted transaction 899906a1-d268-498a-ade5-6afc21b8cac3
+2024-11-16 15:53:21,509 - Inserted transaction fbd5e4da-cd70-41a6-b43c-155ec0fea086
+2024-11-16 15:53:21,509 - Inserted transaction 378250c4-b841-425a-8543-240bc424e30b
+2024-11-16 15:53:21,510 - Inserted transaction 1f6b4d72-8f84-43d5-9a6c-310f19677648
+2024-11-16 15:53:21,511 - Inserted transaction 16bb6dbb-368f-4288-8bf4-dabc91da99a2
+2024-11-16 15:53:21,511 - Inserted transaction 08db8d2a-10f7-4077-9aa5-73d425f6dca7
+2024-11-16 15:53:21,512 - Inserted transaction 665fa740-0854-4f90-a5ba-9e38070bbbe3
+2024-11-16 15:53:21,513 - Inserted transaction 308c309a-d3b7-421e-8b78-4b90f19cc94d
+2024-11-16 15:53:21,513 - Inserted transaction 9aa767cd-6656-4d16-8d85-690c5ce8485d
+2024-11-16 15:53:21,514 - Inserted transaction e5556ef8-aa78-4732-a699-4e93d135a724
+2024-11-16 15:53:21,514 - Inserted transaction 23edfb24-c16b-4238-8219-05cd64ab27fe
+2024-11-16 15:53:21,515 - Inserted transaction c516b297-352c-4b33-ab1f-63c160b1a8a5
+2024-11-16 15:53:21,516 - Inserted transaction f8b03d42-c5f2-408c-bcdd-3a56c5161bab
+2024-11-16 15:53:21,516 - Inserted transaction d8ba01e3-9b81-468b-bd07-6702dc089433
+2024-11-16 15:53:21,517 - Inserted transaction c64554c6-338a-46b6-b165-6435f193bc77
+2024-11-16 15:53:21,517 - Inserted transaction 1b6ad02d-7fb6-4532-bd9d-e427831c2d60
+2024-11-16 15:53:21,518 - Inserted transaction e833286d-439e-4df1-a3f9-f7a72dfca370
+2024-11-16 15:53:21,519 - Inserted transaction 1dad37e8-c9c3-4513-828c-13a005405c55
+2024-11-16 15:53:21,519 - Inserted transaction 380c2b7d-8fdb-4bbe-8957-59b8719921fe
+2024-11-16 15:53:21,520 - Inserted transaction ac18f6ca-994a-4671-ba94-90473a0cfbb0
+2024-11-16 15:53:21,520 - Inserted transaction 126307d7-4967-4bfd-82c6-d056394bc4dc
+2024-11-16 15:53:21,521 - Inserted transaction d26a0b35-631c-4c00-86ed-8d66ecf1797d
+2024-11-16 15:53:21,522 - Inserted transaction e9dd8100-a5e1-4a3e-b824-ed1f22821ccf
+2024-11-16 15:53:21,522 - Inserted transaction 7f704e01-2579-488a-9b58-25e0fc476957
+2024-11-16 15:53:21,523 - Inserted transaction 95bf6777-3c31-4738-a80d-caed07401939
+2024-11-16 15:53:21,524 - Inserted transaction 741df237-9a60-4f00-ae56-3e240706e508
+2024-11-16 15:53:21,524 - Inserted transaction bcb5a6b7-d1e5-42b1-81bd-47a603fdc5d3
+2024-11-16 15:53:21,525 - Inserted transaction baadc13a-a40a-4387-8141-0cd05fec4f6c
+2024-11-16 15:53:21,525 - Inserted transaction f3157d17-3119-42e0-b0b6-d8cd76a4bd50
+2024-11-16 15:53:21,526 - Inserted transaction 141fe5c9-7d90-4a37-9be5-56a1e4740302
+2024-11-16 15:53:21,527 - Inserted transaction 1babd7d6-a904-440e-887f-13ca020ec46a
+2024-11-16 15:53:21,527 - Inserted transaction 4b9d5476-b923-4792-a2ff-539ebb83925b
+2024-11-16 15:53:21,527 - Inserted transaction 9c46a061-ae97-48a1-8742-c260c1e36315
+2024-11-16 15:53:21,528 - Inserted transaction 460c635c-14d4-45e5-bb5b-2323f54770d5
+2024-11-16 15:53:21,528 - Inserted transaction 6a8811bf-2aeb-4aa0-b1d4-95d951cdde41
+2024-11-16 15:53:21,528 - Inserted transaction b8cb8106-f6a0-4b61-b81a-80cc2682418f
+2024-11-16 15:53:21,529 - Inserted transaction 0fb9d82b-1bc2-4def-b03c-b8a93162c4ec
+2024-11-16 15:53:21,529 - Inserted transaction 27e9fa8a-a320-47f5-bfea-cf0fb1837827
+2024-11-16 15:53:21,529 - Inserted transaction 47890844-8334-4ee9-8438-c67197a8ba27
+2024-11-16 15:53:21,530 - Inserted transaction 99453bdf-4cf2-489b-a3ef-0c9818f0393e
+2024-11-16 15:53:21,530 - Inserted transaction 12402a26-771a-44d6-8a91-38bf8c228a50
+2024-11-16 15:53:21,530 - Inserted transaction 375412fe-63e2-4710-8ee7-bd8c34cd094a
+2024-11-16 15:53:21,530 - Inserted transaction 7445e12d-9445-4e48-9456-6e5f0958e648
+2024-11-16 15:53:21,531 - Inserted transaction 6ed9a4ef-5e10-4b08-98a9-b3709d4f2356
+2024-11-16 15:53:21,531 - Inserted transaction f76ab2c0-35f6-45f2-8bf9-d13ce7d05ec4
+2024-11-16 15:53:21,531 - Inserted transaction 3fa8a4e4-9876-4647-bf84-9ccedf238d0a
+2024-11-16 15:53:21,532 - Inserted transaction 25a7a365-b765-4580-b28d-5da72746b0e5
+2024-11-16 15:53:21,532 - Inserted transaction c966d410-52c8-402e-9bd0-23c8bed9dd0e
+2024-11-16 15:53:21,532 - Inserted transaction 286ca958-3f28-4e56-9d0f-763bde017d6b
+2024-11-16 15:53:21,532 - Inserted transaction 6cb148a8-974c-427a-8d13-a21ba431abc7
+2024-11-16 15:53:21,533 - Inserted transaction 4db66180-c800-4b2e-a31a-8afda689ee66
+2024-11-16 15:53:21,533 - Inserted transaction 62ee0b5a-a00e-481c-9898-6ec5ec01a4c0
+2024-11-16 15:53:21,533 - Inserted transaction d85edde1-82ed-413a-aa9e-20caddd318fb
+2024-11-16 15:53:21,534 - Inserted transaction 22d26cb8-30c6-40e5-8919-b5a46e98e74a
+2024-11-16 15:53:21,534 - Inserted transaction 65982db6-7ca9-40d0-962b-67bc14a9734d
+2024-11-16 15:53:21,534 - Inserted transaction 9bf8b765-c09a-41bf-b75c-2dcfc8c44049
+2024-11-16 15:53:21,534 - Inserted transaction 251e9bda-83ed-4353-b373-e96209ec5067
+2024-11-16 15:53:21,535 - Inserted transaction f7933f57-c21d-4eaf-bc60-51b1610b5843
+2024-11-16 15:53:21,535 - Inserted transaction 55b42326-2dd2-40c4-820a-9db77f8bac89
+2024-11-16 15:53:21,535 - Inserted transaction 15ff7cbf-12be-4dad-8c28-8b419920dc68
+2024-11-16 15:53:21,535 - Inserted transaction 2b16eed3-019a-45e3-87b8-d8bc9db3c046
+2024-11-16 15:53:21,536 - Inserted transaction 628d3fd1-3346-42bf-8f40-ffcfe677da6e
+2024-11-16 15:53:21,536 - Inserted transaction 515e8677-f456-4d51-8491-64ed34717329
+2024-11-16 15:53:21,536 - Inserted transaction 7bb91ec5-a259-4473-a63b-80d797609282
+2024-11-16 15:53:21,537 - Inserted transaction 8ff34da8-4167-4fe7-8d65-1eb7ef0ecf1b
+2024-11-16 15:53:21,537 - Inserted transaction 56b8bf8e-559d-43a4-ac1c-1ade031581c9
+2024-11-16 15:53:21,537 - Inserted transaction 12d6f74d-51b4-4b51-a55f-b2bdf5ac1675
+2024-11-16 15:53:21,537 - Inserted transaction c7d4a78e-6c5a-4297-bad7-d3d85a22b628
+2024-11-16 15:53:21,538 - Inserted transaction c884323a-8f12-43cc-851a-7461117d7e84
+2024-11-16 15:53:21,538 - Inserted transaction 66919f24-088e-49a2-ba55-45a5a4c0b302
+2024-11-16 15:53:21,539 - Inserted transaction 64cc95c8-3512-4f32-90f6-8d231ada77c0
+2024-11-16 15:53:21,539 - Inserted transaction c7f393da-c280-45fc-b460-904b07e435e4
+2024-11-16 15:53:21,539 - Inserted transaction e3a6c3f4-5fae-4e79-88f9-4e0e17c2ad9f
+2024-11-16 15:53:21,540 - Inserted transaction 8bd2770c-c097-44a0-bc98-1cfccfef22d0
+2024-11-16 15:53:21,540 - Inserted transaction 733a535d-9799-4e7d-9343-70f9e139318e
+2024-11-16 15:53:21,540 - Inserted transaction 551805ed-251d-4b76-b272-38145a1cf505
+2024-11-16 15:53:21,540 - Inserted transaction 378552fb-4559-4579-80f8-187488f76bb7
+2024-11-16 15:53:21,541 - Inserted transaction 9e32111d-f4a8-4f58-8efa-cbb2ec2c8377
+2024-11-16 15:53:21,541 - Inserted transaction 893f7056-8107-4ef3-b3ab-ab6a9dab15a6
+2024-11-16 15:53:21,541 - Inserted transaction 89e15787-2aaa-409f-8f77-afa73e1069f5
+2024-11-16 15:53:21,542 - Inserted transaction 109f6695-1e2d-48df-b060-e4d174cf53c3
+2024-11-16 15:53:21,542 - Inserted transaction 52a54fc3-655d-40d6-b1f5-b330181e7ad2
+2024-11-16 15:53:21,542 - Inserted transaction f801650e-07fc-4255-8357-806697cf26a0
+2024-11-16 15:53:21,542 - Inserted transaction f0dc1a56-ce9b-4cd0-8694-7844e701916b
+2024-11-16 15:53:21,543 - Inserted transaction 63652b77-f40c-43e5-8610-f801f865ee6e
+2024-11-16 15:53:21,561 - Total inserted: 100, Total not inserted: 0
+2024-11-16 16:05:35,336 - Inserted transaction 502f63c4-1ac7-4d11-b719-90374e5fee63
+2024-11-16 16:05:35,337 - Inserted transaction 6f4d312f-8c44-463e-bbfb-5d7e763f37b3
+2024-11-16 16:05:35,338 - Inserted transaction e3ce8816-137f-408a-b364-ec5236233560
+2024-11-16 16:05:35,338 - Inserted transaction 4e077e2f-ea9f-415e-a423-5f1e3a8146f3
+2024-11-16 16:05:35,339 - Inserted transaction 6870d466-8a56-4259-a199-80f120bd4434
+2024-11-16 16:05:35,339 - Inserted transaction 0edc1eda-ae0f-44c9-969b-d31350ac51df
+2024-11-16 16:05:35,339 - Inserted transaction aad4f285-d52b-427f-adb5-3dcece17b924
+2024-11-16 16:05:35,340 - Inserted transaction 4dc6c9f1-dbe3-45f2-9099-7236c07a62bf
+2024-11-16 16:05:35,340 - Inserted transaction 35abbbc1-bc02-46df-9a8b-24af0b8dc0d5
+2024-11-16 16:05:35,340 - Inserted transaction 29a64f13-fb10-40de-826d-ec06cb186e53
+2024-11-16 16:05:35,340 - Inserted transaction 9bb77183-ce75-4020-b88f-bda490acd909
+2024-11-16 16:05:35,341 - Inserted transaction 40eb3427-0566-4e74-9dd2-08bb062dbed3
+2024-11-16 16:05:35,341 - Inserted transaction a03dd569-3dba-46f2-b8d9-634e820f5000
+2024-11-16 16:05:35,341 - Inserted transaction 97d52653-14c4-4363-8053-079896e57b0d
+2024-11-16 16:05:35,341 - Inserted transaction 80c77867-85ab-453c-bdcc-ff42d0c5bf32
+2024-11-16 16:05:35,342 - Inserted transaction cb4368d1-7cc5-48ac-8eb4-07aad057b224
+2024-11-16 16:05:35,342 - Inserted transaction c30ff878-bd74-4069-861a-c6e6718fdcba
+2024-11-16 16:05:35,343 - Inserted transaction 57ce1c1f-ad76-4f2e-9226-a6d78f99b9ff
+2024-11-16 16:05:35,343 - Inserted transaction aee565c1-2608-4a87-94dd-e61b8d6f2156
+2024-11-16 16:05:35,343 - Inserted transaction d19628b5-397a-4aff-8d70-f61b787f084e
+2024-11-16 16:05:35,344 - Inserted transaction 8ec4d92b-7a2f-421b-b02e-e3b0f977ce44
+2024-11-16 16:05:35,344 - Inserted transaction 8a973597-cee0-4085-902b-c985eb601753
+2024-11-16 16:05:35,345 - Inserted transaction 097dea30-9a65-4e15-85e4-c8ca4063c7e3
+2024-11-16 16:05:35,345 - Inserted transaction 338630c5-30a1-4bfc-aac1-4a57577e0738
+2024-11-16 16:05:35,345 - Inserted transaction 51f6c0ba-e436-42fd-9d1d-23e51a99108e
+2024-11-16 16:05:35,346 - Inserted transaction 9fe3014d-cfd4-4d56-b1c3-867b99bbfe94
+2024-11-16 16:05:35,346 - Inserted transaction c592a29d-5907-4687-9790-b4575fc0c1bd
+2024-11-16 16:05:35,346 - Inserted transaction 976a76ac-bdc7-457a-b24f-a5d146961aa7
+2024-11-16 16:05:35,346 - Inserted transaction 8b39529a-25ee-4997-a4eb-58f30b271d84
+2024-11-16 16:05:35,347 - Inserted transaction 14c72b6b-f1a3-4c95-9397-efd3ee82889c
+2024-11-16 16:05:35,347 - Inserted transaction c6de58a9-c90e-4649-8b30-e8c7387e7352
+2024-11-16 16:05:35,347 - Inserted transaction 14bf2507-7b40-4443-a2ad-a3f9b853525c
+2024-11-16 16:05:35,347 - Inserted transaction caa890ff-4225-49f6-8654-d4d9c1f69a75
+2024-11-16 16:05:35,347 - Inserted transaction 91931f96-dcde-46f5-ad2c-7857fc23d50b
+2024-11-16 16:05:35,348 - Inserted transaction eab2de9f-bcb3-455a-bde9-5a5c13a61c42
+2024-11-16 16:05:35,348 - Inserted transaction de26f7f9-7467-45a0-80e6-cebf4d9b0efa
+2024-11-16 16:05:35,348 - Inserted transaction 2067cda9-455f-4ab9-b1b6-5491586c18de
+2024-11-16 16:05:35,348 - Inserted transaction ee30c3b7-870b-418e-b014-7d9b350e2f49
+2024-11-16 16:05:35,349 - Inserted transaction 0a8d6841-6cfa-465b-b83b-129b245f85e9
+2024-11-16 16:05:35,349 - Inserted transaction 25905477-7b68-4b9f-ae5c-77ae55f3e9f4
+2024-11-16 16:05:35,349 - Inserted transaction 92b3d698-b047-4322-a88d-549c8fc5eca5
+2024-11-16 16:05:35,349 - Inserted transaction 1622be82-454d-4492-95d2-90c572e4bffd
+2024-11-16 16:05:35,349 - Inserted transaction 6cfdb86b-fe74-4906-9d9f-5aeb69f413b0
+2024-11-16 16:05:35,349 - Inserted transaction 4dbd4026-3b41-4872-a9f2-5c07393b479a
+2024-11-16 16:05:35,349 - Inserted transaction b18c8480-72de-4941-a569-d3272ddb2c81
+2024-11-16 16:05:35,350 - Inserted transaction e97712da-796f-4a03-9a8b-01df8a81e6ae
+2024-11-16 16:05:35,350 - Inserted transaction 7629a294-1c59-41a2-ae62-8b9c94d6905b
+2024-11-16 16:05:35,350 - Inserted transaction 46c912ac-b43f-4677-b844-8ec74b8c7961
+2024-11-16 16:05:35,350 - Inserted transaction 03060faa-c153-4bc3-8c45-45089c24b7af
+2024-11-16 16:05:35,350 - Inserted transaction 6fe2eb19-66b8-495d-af88-0a91a9b76a36
+2024-11-16 16:05:35,350 - Inserted transaction 716338f4-4b58-438c-870b-43d9b5bc2282
+2024-11-16 16:05:35,350 - Inserted transaction 10c49709-2888-4569-9852-94e38d6643a0
+2024-11-16 16:05:35,350 - Inserted transaction fb623ac0-beab-4807-a357-50a39ee32ade
+2024-11-16 16:05:35,350 - Inserted transaction 51c150c5-b95a-43ad-9c5b-a60d0739c6ae
+2024-11-16 16:05:35,350 - Inserted transaction e2cab82b-6ac0-4bf3-99c7-998d674e99c8
+2024-11-16 16:05:35,350 - Inserted transaction 968c29e0-9a97-4cd8-bf8e-8f5ae8e8488e
+2024-11-16 16:05:35,350 - Inserted transaction 4acac1ff-ea90-4b17-b763-a764a56af9bf
+2024-11-16 16:05:35,351 - Inserted transaction 34714dfc-fb22-43a9-b28d-f571ab55a5e7
+2024-11-16 16:05:35,351 - Inserted transaction 9f77c99f-75c6-4528-9295-132f47ec1727
+2024-11-16 16:05:35,351 - Inserted transaction 2a3eec62-232a-4a75-8251-a85488933729
+2024-11-16 16:05:35,351 - Inserted transaction 2f4443fd-d980-4551-845d-91ee7a0242ae
+2024-11-16 16:05:35,351 - Inserted transaction 79f2b1c6-bbc5-42d8-ace7-bf7f8356bbac
+2024-11-16 16:05:35,351 - Inserted transaction 33adcb0e-91b3-49ea-ad79-c7e2ff38e12f
+2024-11-16 16:05:35,351 - Inserted transaction eb67d25c-552e-489e-a136-ae2465d1f4cc
+2024-11-16 16:05:35,351 - Inserted transaction 2701b40b-72ea-4cbd-85d9-71622ef134f0
+2024-11-16 16:05:35,351 - Inserted transaction 52294411-e410-442e-8281-99f75291dcbe
+2024-11-16 16:05:35,351 - Inserted transaction e73258c3-9452-47a2-bc78-23e31545894e
+2024-11-16 16:05:35,351 - Inserted transaction 99ef4f9c-50e6-4c39-be95-f5252c96bd67
+2024-11-16 16:05:35,352 - Inserted transaction 66687950-40cd-4c85-b307-38902e495099
+2024-11-16 16:05:35,352 - Inserted transaction ddecc644-a35f-4f7e-9970-1b2c687813b4
+2024-11-16 16:05:35,352 - Inserted transaction 012248ec-3d18-4f02-8f7e-c1dbaf9804b6
+2024-11-16 16:05:35,352 - Inserted transaction 1ab85efa-724a-4a19-a4d8-30b6065edc07
+2024-11-16 16:05:35,352 - Inserted transaction 9dd40363-efaf-466e-8cb9-b08814acea97
+2024-11-16 16:05:35,352 - Inserted transaction bf3d40f2-d08e-4be6-adb2-2cc4d9b7b6ea
+2024-11-16 16:05:35,352 - Inserted transaction ed4470ff-2036-4f9c-8b30-781021a0de67
+2024-11-16 16:05:35,352 - Inserted transaction 9d1ba114-933a-493a-95d5-de93715d5531
+2024-11-16 16:05:35,353 - Inserted transaction be51d763-015a-4b0e-9805-cf5a738a6927
+2024-11-16 16:05:35,353 - Inserted transaction 7fd4fc6c-781b-401a-874c-315a10a08fad
+2024-11-16 16:05:35,353 - Inserted transaction 88b72e61-bd30-435c-af25-c4ad13b315b7
+2024-11-16 16:05:35,353 - Inserted transaction 20149a9b-0d1c-42b0-ac47-450f83839ee9
+2024-11-16 16:05:35,353 - Inserted transaction 7c33e7fc-fa1f-44f4-b141-2797a6ce849f
+2024-11-16 16:05:35,353 - Inserted transaction eb410840-0270-4972-8241-613dad29994e
+2024-11-16 16:05:35,353 - Inserted transaction 9029a252-a3b8-4ca5-84b4-46a81d506779
+2024-11-16 16:05:35,353 - Inserted transaction 0dd3f03f-90d5-4569-acd3-b52b33018c4d
+2024-11-16 16:05:35,353 - Inserted transaction 8e247cb0-a7a8-404f-9c78-cdc304c576da
+2024-11-16 16:05:35,353 - Inserted transaction 57c70b72-c366-4b26-87ca-1dc377ff4e13
+2024-11-16 16:05:35,354 - Inserted transaction 28c9ca97-630e-49cf-aaed-2b8ed8b3def5
+2024-11-16 16:05:35,354 - Inserted transaction a090cec1-5faf-44ae-a929-a090a1cc52e5
+2024-11-16 16:05:35,354 - Inserted transaction 41219914-0ddc-4f0f-bef4-94809a9f24af
+2024-11-16 16:05:35,354 - Inserted transaction d44eb756-bc55-4443-bd4f-d45cc6833362
+2024-11-16 16:05:35,354 - Inserted transaction 71f9e967-931a-4477-9599-cfd2db4ea369
+2024-11-16 16:05:35,354 - Inserted transaction cf29d7ad-6f13-4d00-a0ac-dd19102ad901
+2024-11-16 16:05:35,354 - Inserted transaction ca662af2-ee6d-4766-9799-17e5e299a2dc
+2024-11-16 16:05:35,354 - Inserted transaction b8f4c2dc-55f7-4c5d-88ca-09ef912a8e31
+2024-11-16 16:05:35,354 - Inserted transaction 470ba422-5fb3-4315-bce6-2dd9ee19f534
+2024-11-16 16:05:35,354 - Inserted transaction 1b532a1e-29f1-4b46-92fe-5597e305f4cf
+2024-11-16 16:05:35,355 - Inserted transaction 72cf3188-4b87-4923-8290-b7d498a361dd
+2024-11-16 16:05:35,355 - Inserted transaction 8d5355ff-9071-45be-a3de-dc6b0e93dd94
+2024-11-16 16:05:35,355 - Inserted transaction 503c67e0-2e04-43a1-b29c-64ab7eadad01
+2024-11-16 16:05:35,355 - Inserted transaction 96f91c44-4715-4fe0-a29a-c5277dd62a33
+2024-11-16 16:05:35,373 - Total inserted: 100, Total not inserted: 0
+2024-11-16 16:15:03,569 - Inserted transaction cf90a930-ef01-4ff4-9de2-0bbfdfcfcfc9
+2024-11-16 16:15:03,570 - Inserted transaction 15388970-9725-4a12-8d2d-0c59ef2c8740
+2024-11-16 16:15:03,571 - Inserted transaction fb059a72-fedb-4509-9d2c-d9d95a465b2f
+2024-11-16 16:15:03,571 - Inserted transaction e08caf37-55e4-4d18-af52-14551901a65e
+2024-11-16 16:15:03,571 - Inserted transaction ccb483f7-beee-4cb2-8468-9d237c91ec41
+2024-11-16 16:15:03,572 - Inserted transaction e501294f-64cc-425d-9882-2fdfb4bde4cf
+2024-11-16 16:15:03,572 - Inserted transaction de99815b-1ade-4bfc-8484-e88433214513
+2024-11-16 16:15:03,573 - Inserted transaction 6496e092-8748-49aa-8ef9-be665261c029
+2024-11-16 16:15:03,573 - Inserted transaction 378e3b7e-7cac-43ed-b857-97852c0fc581
+2024-11-16 16:15:03,574 - Inserted transaction 5611735d-4a36-4688-a4ff-2f7ec2833055
+2024-11-16 16:15:03,574 - Inserted transaction a0181d0c-fc50-4872-82d8-169e5287aa6a
+2024-11-16 16:15:03,574 - Inserted transaction 3b2dd119-4d40-4765-9cc6-17f84ed61968
+2024-11-16 16:15:03,575 - Inserted transaction 9ba3267d-d1f9-4cb8-b751-cca59f2300c3
+2024-11-16 16:15:03,575 - Inserted transaction 07009287-6675-4763-bab4-15d056476dc0
+2024-11-16 16:15:03,575 - Inserted transaction 0aead888-52e5-463d-961c-150f308ebcc0
+2024-11-16 16:15:03,575 - Inserted transaction f4fc5e5f-438a-42da-9eea-df3adf641b0b
+2024-11-16 16:15:03,576 - Inserted transaction 85be29d3-0e56-48ea-9f5c-8c281704eb8b
+2024-11-16 16:15:03,576 - Inserted transaction c275d1d2-75d6-467f-a3d1-fd72650d820f
+2024-11-16 16:15:03,576 - Inserted transaction 94b88b88-c97b-4e77-a1f3-9f2e34ebc72d
+2024-11-16 16:15:03,576 - Inserted transaction 075cf55e-9463-400e-8f7a-16371e7e919e
+2024-11-16 16:15:03,577 - Inserted transaction 34af6c71-6b9a-48a7-9af2-ab40d7d5feb2
+2024-11-16 16:15:03,577 - Inserted transaction 0a1e4331-25f9-424c-ac12-7ba3a78cc8b6
+2024-11-16 16:15:03,577 - Inserted transaction bd7596c3-6a89-4e01-9a71-61789d288956
+2024-11-16 16:15:03,577 - Inserted transaction f11a686d-28e9-4084-9b8a-c86b0c7df526
+2024-11-16 16:15:03,578 - Inserted transaction 845e07a9-f13b-451a-a9f5-f6b91494c5e0
+2024-11-16 16:15:03,578 - Inserted transaction a3ec1237-3a7d-40d7-8022-b74b012da264
+2024-11-16 16:15:03,578 - Inserted transaction 7ec3e6a3-b224-46d4-860a-f6c852e64424
+2024-11-16 16:15:03,578 - Inserted transaction b53794bf-14e7-4b7e-91bf-175c4445b91c
+2024-11-16 16:15:03,579 - Inserted transaction d8649fa0-f5ec-4c5c-9b09-46e748e024a8
+2024-11-16 16:15:03,579 - Inserted transaction 4e5068f8-674d-4a2a-ab96-7749f3dd11b7
+2024-11-16 16:15:03,579 - Inserted transaction 64998c62-dd79-4d59-96a0-a47decd2fbf8
+2024-11-16 16:15:03,579 - Inserted transaction f31b37a9-868f-4562-8ded-99b91db1c721
+2024-11-16 16:15:03,580 - Inserted transaction 803d4eb4-a23f-464a-a9e7-182aad342a99
+2024-11-16 16:15:03,580 - Inserted transaction e0bc3f52-79f8-4d9a-a85e-656c3eab9e61
+2024-11-16 16:15:03,580 - Inserted transaction ade94e22-a4bb-4312-bdd9-afab108eb79f
+2024-11-16 16:15:03,581 - Inserted transaction 28b05387-c36a-4208-9bd6-53b231118e7a
+2024-11-16 16:15:03,581 - Inserted transaction fc0ead5f-620e-45fa-97ef-ddd24c2565f3
+2024-11-16 16:15:03,581 - Inserted transaction 2785682a-4c46-46ac-9896-7a955abcdd0b
+2024-11-16 16:15:03,581 - Inserted transaction 00552fff-ed8f-4d5f-a4ef-a8b05f99c0be
+2024-11-16 16:15:03,581 - Inserted transaction 0cff5b5c-e8f6-4213-9827-0673f4aa8ae4
+2024-11-16 16:15:03,581 - Inserted transaction 242247d7-0cab-461e-9896-05448e30a7db
+2024-11-16 16:15:03,582 - Inserted transaction dd38e96e-b00b-4c48-a9cd-1cbf725c23c8
+2024-11-16 16:15:03,582 - Inserted transaction 945852e9-285e-4357-a4cc-e465cd028a3c
+2024-11-16 16:15:03,582 - Inserted transaction b9bfab74-3f33-427a-927f-425067214619
+2024-11-16 16:15:03,582 - Inserted transaction 0b1729f8-757d-4b34-8713-d8d88519956b
+2024-11-16 16:15:03,582 - Inserted transaction 370fb5d9-c9d0-4e98-8c53-476b370d1277
+2024-11-16 16:15:03,582 - Inserted transaction 92408480-e68c-4f48-9762-ebfe83280a4b
+2024-11-16 16:15:03,582 - Inserted transaction 84c7d6af-dd46-4c09-9878-f4fb74ea9771
+2024-11-16 16:15:03,582 - Inserted transaction d6b5b8b1-bd1d-4558-bfdd-71383a6e2cd5
+2024-11-16 16:15:03,583 - Inserted transaction dbd0c21b-bbc0-4095-9e67-23dbd6a8f3e9
+2024-11-16 16:15:03,583 - Inserted transaction 57f906fc-d569-4853-8dba-37be858708cf
+2024-11-16 16:15:03,583 - Inserted transaction 04f6056a-82cf-4598-809d-bb5d430bae74
+2024-11-16 16:15:03,583 - Inserted transaction 7efc7fa1-3f62-46b6-b04b-0f0c100139f0
+2024-11-16 16:15:03,583 - Inserted transaction ff23b5c8-d8ea-42cb-9301-bac6434aa500
+2024-11-16 16:15:03,583 - Inserted transaction 38a6d4e6-af3e-46d8-9706-c2027c89c55d
+2024-11-16 16:15:03,583 - Inserted transaction 0b29e821-609a-46b9-892a-167687baa636
+2024-11-16 16:15:03,583 - Inserted transaction c2d4076b-ff76-4459-9443-4c8f8afeb9f0
+2024-11-16 16:15:03,583 - Inserted transaction 3850d507-a563-4896-8ab6-e1c4f8658970
+2024-11-16 16:15:03,583 - Inserted transaction 7772dc60-7d3d-4595-940c-09158369718e
+2024-11-16 16:15:03,584 - Inserted transaction 16d7d99b-23e9-4cc2-a085-9a43082c5d6c
+2024-11-16 16:15:03,584 - Inserted transaction 20b83a64-7bd4-4e1f-a283-cc3a5287880f
+2024-11-16 16:15:03,584 - Inserted transaction af48aa27-4d6b-481e-888c-7ddca3db322e
+2024-11-16 16:15:03,584 - Inserted transaction f518eb13-a689-47d3-894f-a62ad2d8a8b4
+2024-11-16 16:15:03,584 - Inserted transaction f0703371-c3d0-4e35-9140-55587eb16dd5
+2024-11-16 16:15:03,585 - Inserted transaction 0897ae5f-0191-42d7-a38d-bc5dcd1ebd32
+2024-11-16 16:15:03,585 - Inserted transaction db8dea11-3db0-4a18-83ab-0e054012326a
+2024-11-16 16:15:03,585 - Inserted transaction 0cade1e0-374c-49ee-8f4c-0457c86ec925
+2024-11-16 16:15:03,585 - Inserted transaction 8d3847f5-f6f8-4ad6-9e86-4590ea03fe85
+2024-11-16 16:15:03,585 - Inserted transaction da799604-8b3f-44a1-9862-19f83a295ef3
+2024-11-16 16:15:03,585 - Inserted transaction 5883fb44-7701-4720-806d-c54545266e66
+2024-11-16 16:15:03,585 - Inserted transaction c7cd348e-33d1-4cbd-abcb-4a6769bdfcc1
+2024-11-16 16:15:03,585 - Inserted transaction 9e43aa75-0aeb-4be4-9697-631c5b1df826
+2024-11-16 16:15:03,585 - Inserted transaction 378e6fe8-668c-44e8-84e8-642c1cd56128
+2024-11-16 16:15:03,586 - Inserted transaction 047e8f75-4729-4803-9ff7-b0b71fdc37fc
+2024-11-16 16:15:03,586 - Inserted transaction 8e1e7f81-0c88-4261-a160-6cdc71ceffee
+2024-11-16 16:15:03,586 - Inserted transaction 07c7cdc0-c756-4c1a-a5f3-803fafb94d43
+2024-11-16 16:15:03,586 - Inserted transaction 9b6fa1f9-381b-4078-a649-ee69fcc5ce38
+2024-11-16 16:15:03,586 - Inserted transaction 30930c4d-6357-4898-b6cb-b3ab00463a11
+2024-11-16 16:15:03,586 - Inserted transaction 086d7a10-be81-4d64-a29b-05d0fb78cc68
+2024-11-16 16:15:03,586 - Inserted transaction 9e6c9f5d-75ad-47ce-a2ed-d9afdafe1d1f
+2024-11-16 16:15:03,587 - Inserted transaction 4cb16294-9462-4f4b-a918-1ddfe38752df
+2024-11-16 16:15:03,587 - Inserted transaction 559b3693-2ccd-4376-8659-1776fbd458a4
+2024-11-16 16:15:03,587 - Inserted transaction 7705e6cc-ebc3-4dd7-884d-e83204f01482
+2024-11-16 16:15:03,588 - Inserted transaction 0e332bcd-866d-4905-bce0-d394d13c51ea
+2024-11-16 16:15:03,588 - Inserted transaction fac54a90-68a6-4206-9103-ed4fea4c4169
+2024-11-16 16:15:03,588 - Inserted transaction b4f157db-0717-4650-be4b-75c7d6b67684
+2024-11-16 16:15:03,588 - Inserted transaction 49df5ae0-fa0d-428c-a88d-274cbfc9fc06
+2024-11-16 16:15:03,589 - Inserted transaction 15807028-84d7-4940-b2a5-4ed61cfc7e95
+2024-11-16 16:15:03,589 - Inserted transaction 43cfc004-7a57-42fb-976c-dc303e58e9e4
+2024-11-16 16:15:03,589 - Inserted transaction 740297c0-6383-479f-b11c-be7a87321238
+2024-11-16 16:15:03,589 - Inserted transaction 3d7251ec-a601-4271-b1ed-ea82f69a50bc
+2024-11-16 16:15:03,589 - Inserted transaction a32ae5ef-fce8-4363-976f-e6684d795f78
+2024-11-16 16:15:03,590 - Inserted transaction 8643dad0-6262-4356-a31e-07ae13fae05a
+2024-11-16 16:15:03,590 - Inserted transaction bcdc44b4-627b-4019-9ec5-cfe0666380f8
+2024-11-16 16:15:03,590 - Inserted transaction 0651f990-ba64-40e7-bfd8-7c780d5e609a
+2024-11-16 16:15:03,590 - Inserted transaction abd9db12-81c7-46d8-ac5d-c94390b99134
+2024-11-16 16:15:03,591 - Inserted transaction 5adfd2e4-6f3b-4788-b0ac-554945bdfb3b
+2024-11-16 16:15:03,591 - Inserted transaction 13b39a9c-434d-4223-997b-320da70e52a7
+2024-11-16 16:15:03,591 - Inserted transaction dfa60dbc-058a-4ef1-b384-5402246debcd
+2024-11-16 16:15:03,591 - Inserted transaction 3faa256f-8ca7-4539-8d99-6ee9db35c023
+2024-11-16 16:15:03,608 - Total inserted: 100, Total not inserted: 0
+2024-11-16 16:33:18,357 - Inserted transaction c9e395e7-1e78-45be-9998-92dc89a5a630
+2024-11-16 16:33:18,358 - Inserted transaction c820b177-4b44-47c7-a806-514a7a32abf4
+2024-11-16 16:33:18,358 - Inserted transaction aa5bc40f-8bd1-4e4b-a0de-3125d07bfb96
+2024-11-16 16:33:18,359 - Inserted transaction b39e2d57-7c47-4ccb-8285-a7720dfaca71
+2024-11-16 16:33:18,359 - Inserted transaction 36ebf685-d4e7-4ce8-854e-f0e2aaa36836
+2024-11-16 16:33:18,360 - Inserted transaction e70051bc-57e4-442d-8cb4-3ba494ee8e08
+2024-11-16 16:33:18,360 - Inserted transaction a86f160f-0ead-4f24-9a56-9299cd09bdec
+2024-11-16 16:33:18,360 - Inserted transaction ae7b5a6f-fafa-431d-a2d1-69cbbc5d5925
+2024-11-16 16:33:18,360 - Inserted transaction b7fa02d2-1988-413b-8af7-e10a39832d7d
+2024-11-16 16:33:18,361 - Inserted transaction 5545df5a-2b0c-42e3-958d-55a3d8c0b466
+2024-11-16 16:33:18,361 - Inserted transaction a7e4cb07-02be-4879-bf35-6bec294bca7c
+2024-11-16 16:33:18,361 - Inserted transaction 688befc0-c000-4b6f-bcf7-94a9a7e57e28
+2024-11-16 16:33:18,362 - Inserted transaction 1fb1835f-b0bf-4b9b-9c5b-72b0c12d667c
+2024-11-16 16:33:18,362 - Inserted transaction ad41ef1d-4091-41ae-9422-73a567161aa2
+2024-11-16 16:33:18,362 - Inserted transaction 5529d72e-2abe-41b5-aecd-4b9398d7f87c
+2024-11-16 16:33:18,362 - Inserted transaction 791397e4-1300-457a-8f70-268dc31b7cd9
+2024-11-16 16:33:18,363 - Inserted transaction ca769774-91d3-4935-b8e1-2bafa14df0c5
+2024-11-16 16:33:18,363 - Inserted transaction 7c897e11-d924-4bc7-9a94-9174d3946647
+2024-11-16 16:33:18,363 - Inserted transaction 0a4544bd-0fc2-464b-80dc-824a70c77633
+2024-11-16 16:33:18,363 - Inserted transaction 823c5389-94fa-4306-b6f6-6cc948c2dd6b
+2024-11-16 16:33:18,364 - Inserted transaction a626eb69-f870-4276-87ff-656f0938a802
+2024-11-16 16:33:18,364 - Inserted transaction 49b933a9-8f13-449c-a24a-f31d469344d4
+2024-11-16 16:33:18,364 - Inserted transaction a896ac97-feb2-4163-96a7-014370968628
+2024-11-16 16:33:18,364 - Inserted transaction b1daa451-4a17-410c-a21e-10fc2274c38c
+2024-11-16 16:33:18,365 - Inserted transaction 4cdf934b-9eb0-47b7-80d6-e30061e0c045
+2024-11-16 16:33:18,365 - Inserted transaction 577fbb47-cc9e-4f26-8857-a905b9662e13
+2024-11-16 16:33:18,365 - Inserted transaction 56c380ee-0db4-4b42-a4d7-45fdb2c4e66b
+2024-11-16 16:33:18,365 - Inserted transaction 5287ad77-aa0f-4011-b32f-7982e062d90a
+2024-11-16 16:33:18,366 - Inserted transaction ad131f3e-f71b-4f18-b516-4cf94c369395
+2024-11-16 16:33:18,366 - Inserted transaction bc5ef053-ad63-44c1-a9b1-11f3267c619e
+2024-11-16 16:33:18,366 - Inserted transaction 14d2a5c1-f7fd-40ff-a455-879836832234
+2024-11-16 16:33:18,367 - Inserted transaction bda8c52e-0dc4-4747-ab13-d67f364e2e12
+2024-11-16 16:33:18,367 - Inserted transaction 295e0606-7795-4cea-b445-14b70f6d1151
+2024-11-16 16:33:18,367 - Inserted transaction a9f855ef-d95c-4e03-a492-7b3e24beba9f
+2024-11-16 16:33:18,367 - Inserted transaction 6d157a50-d52a-40c5-b985-64c909059945
+2024-11-16 16:33:18,367 - Inserted transaction b5eb074e-90a3-479e-a68b-59c0fe2f8e29
+2024-11-16 16:33:18,367 - Inserted transaction 814a631c-bae7-40ed-b02d-dc45a9873fdf
+2024-11-16 16:33:18,367 - Inserted transaction 719529e7-9008-4dd6-a08f-d00f7f1a75c3
+2024-11-16 16:33:18,367 - Inserted transaction 1cbfd472-86e0-4dea-90f2-55aa0ad02f81
+2024-11-16 16:33:18,368 - Inserted transaction c31d3bab-37b7-4edc-b757-7c8081b42a98
+2024-11-16 16:33:18,368 - Inserted transaction 4be92f20-68c5-4d39-9627-b5e715770f94
+2024-11-16 16:33:18,368 - Inserted transaction a22b1d7e-b737-4134-8a4f-a951abeedf11
+2024-11-16 16:33:18,368 - Inserted transaction 950163b7-4ea5-4eb8-baa5-3c0319517857
+2024-11-16 16:33:18,368 - Inserted transaction e098da54-ec51-41f5-9ea9-c0d3802e0679
+2024-11-16 16:33:18,368 - Inserted transaction d1416795-76bd-4b86-8d25-af3b66354abe
+2024-11-16 16:33:18,368 - Inserted transaction 7778ce98-e403-4309-9350-929bb1d65457
+2024-11-16 16:33:18,368 - Inserted transaction 2327a466-7c30-4acc-a702-b82769daf9e5
+2024-11-16 16:33:18,369 - Inserted transaction 153fdefe-d001-42f9-816d-39b0d1f75626
+2024-11-16 16:33:18,369 - Inserted transaction 9c700ca3-a9a5-4077-a509-ab65d242b0c2
+2024-11-16 16:33:18,369 - Inserted transaction ee9372b8-4c19-462c-b031-1241f982e744
+2024-11-16 16:33:18,369 - Inserted transaction f6b06f23-16c9-43d9-8c73-fb54ecdd4754
+2024-11-16 16:33:18,369 - Inserted transaction 9f9afa4f-f654-4ecf-a3e6-d3e463f8eba9
+2024-11-16 16:33:18,369 - Inserted transaction e9182392-f68f-4f3a-8a55-3c6e64aadac9
+2024-11-16 16:33:18,369 - Inserted transaction d83805a1-8aec-4b8f-9792-ca6c6fe7b6d5
+2024-11-16 16:33:18,369 - Inserted transaction b9d002fc-4944-4adb-a687-8e4788e1d482
+2024-11-16 16:33:18,369 - Inserted transaction f9924b46-065b-4439-9621-79902deac735
+2024-11-16 16:33:18,369 - Inserted transaction 65e3f487-c138-4034-b198-e2a7b317c3aa
+2024-11-16 16:33:18,369 - Inserted transaction 66086ac1-27e5-4ba5-871f-4af406ceb7d4
+2024-11-16 16:33:18,370 - Inserted transaction 1bf74f15-1717-4ec4-9303-ed918724c779
+2024-11-16 16:33:18,370 - Inserted transaction a2162197-1f41-43f4-835e-d852060ec137
+2024-11-16 16:33:18,370 - Inserted transaction 330623d7-40a0-4b17-bb02-223b5a49c452
+2024-11-16 16:33:18,370 - Inserted transaction 94f109b4-d341-4895-8485-c828701ac20e
+2024-11-16 16:33:18,370 - Inserted transaction a656f638-8c61-4c50-9b4d-63d819fbfdac
+2024-11-16 16:33:18,370 - Inserted transaction 59f43498-cb25-4708-8cec-2af148944105
+2024-11-16 16:33:18,370 - Inserted transaction ce64638c-b481-4fd6-8db5-7a4b512f4954
+2024-11-16 16:33:18,370 - Inserted transaction 1dc2e076-273a-4582-a763-45a184cda7a0
+2024-11-16 16:33:18,370 - Inserted transaction 53be5171-a704-44cb-924a-897e960fbfd0
+2024-11-16 16:33:18,371 - Inserted transaction b37d8611-77a7-4352-a950-ec6f09541689
+2024-11-16 16:33:18,371 - Inserted transaction 684011f5-d030-48db-8e3d-6efba7ad909d
+2024-11-16 16:33:18,371 - Inserted transaction 5cbc2628-a625-4672-8506-848e5a7fd379
+2024-11-16 16:33:18,371 - Inserted transaction 7479a21a-eec6-4179-b262-1906e15062f2
+2024-11-16 16:33:18,371 - Inserted transaction 18ad9ff8-2ef7-4a16-894a-53e5d1a70fff
+2024-11-16 16:33:18,371 - Inserted transaction bd9258b6-83ac-4783-8256-c608b9b328ab
+2024-11-16 16:33:18,371 - Inserted transaction 51496432-5ff2-4553-84c3-acc842ff9ea2
+2024-11-16 16:33:18,371 - Inserted transaction 966a3e01-79f7-4ec7-89d5-aee7e0da8bbd
+2024-11-16 16:33:18,371 - Inserted transaction 86589b43-3781-46f3-8671-b46663fb5c0b
+2024-11-16 16:33:18,371 - Inserted transaction fc37e1f7-7752-47b6-bfcf-6e7c6b163179
+2024-11-16 16:33:18,371 - Inserted transaction 2ec762a9-1286-44c7-b264-548577f2fdad
+2024-11-16 16:33:18,372 - Inserted transaction 7e946d6f-673a-48bf-a1b3-323e7b744bac
+2024-11-16 16:33:18,372 - Inserted transaction 12835773-5d92-4425-bad0-3231c2bb7f18
+2024-11-16 16:33:18,372 - Inserted transaction 5ee2a574-4cb6-4b2f-a7cf-9d6fc37525c9
+2024-11-16 16:33:18,372 - Inserted transaction fef483c6-b214-4d80-9d6c-605615e174e3
+2024-11-16 16:33:18,372 - Inserted transaction 98b8cd96-9699-44eb-a6d8-7868c813e160
+2024-11-16 16:33:18,372 - Inserted transaction b75f2c9f-ca55-4e43-bd9f-7731f47f63e3
+2024-11-16 16:33:18,372 - Inserted transaction 1fcf7958-de3e-42e8-8163-234bd3e262ea
+2024-11-16 16:33:18,372 - Inserted transaction 84d663f6-4290-4608-92f0-42c3ea162e84
+2024-11-16 16:33:18,372 - Inserted transaction db0b9fd0-b2be-469a-aade-7d5400727e47
+2024-11-16 16:33:18,373 - Inserted transaction 08699e8e-827c-40c3-b33b-864b2d9f0edd
+2024-11-16 16:33:18,373 - Inserted transaction 28191a4d-4943-41ce-b5f4-8d9e04350eac
+2024-11-16 16:33:18,373 - Inserted transaction c5cebfcf-4ed1-4285-965e-5e8772caf2be
+2024-11-16 16:33:18,373 - Inserted transaction 9220c459-bed8-4894-afc4-333842105ad1
+2024-11-16 16:33:18,373 - Inserted transaction 7acf288f-9700-4857-b7e9-c31a7d1799e9
+2024-11-16 16:33:18,373 - Inserted transaction 417c1b19-6d16-4ba4-bbb1-fc86a263d603
+2024-11-16 16:33:18,373 - Inserted transaction a1af1bdf-bddf-47b2-99d0-26f5e8849611
+2024-11-16 16:33:18,373 - Inserted transaction e66bc740-d9e8-4333-aed1-e0f3f446a031
+2024-11-16 16:33:18,373 - Inserted transaction 61da695d-f3ed-4e0a-9418-c237f54ec611
+2024-11-16 16:33:18,373 - Inserted transaction c49903b0-b2b0-4ec3-b130-14f186b04f79
+2024-11-16 16:33:18,373 - Inserted transaction 8d5b6cfe-0d54-490e-a081-98fd0e8a6bf5
+2024-11-16 16:33:18,374 - Inserted transaction 00e96548-a337-4838-9b81-206cf5d9d8a7
+2024-11-16 16:33:18,374 - Inserted transaction dbf9a5b7-03c5-4474-9e7e-c92558faeb8d
+2024-11-16 16:33:18,393 - Total inserted: 100, Total not inserted: 0
+2024-11-16 16:35:06,135 - Inserted transaction b0dc5544-22c9-458f-8066-dd541c4fcdfa
+2024-11-16 16:35:06,136 - Inserted transaction 31551d36-cd27-4270-bd74-d0398106f0df
+2024-11-16 16:35:06,137 - Inserted transaction 5cda1d5e-fa82-4de9-9aee-d244ba3fcbb1
+2024-11-16 16:35:06,137 - Inserted transaction b6be0402-7ace-4f47-9581-e5883cf322d7
+2024-11-16 16:35:06,138 - Inserted transaction 9a65a3eb-c376-4464-bbd0-5397380ea606
+2024-11-16 16:35:06,139 - Inserted transaction 11f64ddb-2bfc-44d2-9094-37d4eda2d95c
+2024-11-16 16:35:06,139 - Inserted transaction e2ebaa88-9099-4fa9-a739-f7595abb2a1a
+2024-11-16 16:35:06,140 - Inserted transaction 57519eac-5817-48ea-8747-2bac5c3bb065
+2024-11-16 16:35:06,140 - Inserted transaction c6a27dad-fe76-404f-b1bb-f479d866716d
+2024-11-16 16:35:06,140 - Inserted transaction 9172d0e7-2941-4d14-921c-321568fcffa4
+2024-11-16 16:35:06,141 - Inserted transaction 3b80f764-bad6-41ff-885c-d88bf67dd7a1
+2024-11-16 16:35:06,141 - Inserted transaction 8ba80fe2-8050-43f2-9354-267d385e244f
+2024-11-16 16:35:06,142 - Inserted transaction 8b50f628-180b-4eb8-938b-95f34e42de75
+2024-11-16 16:35:06,142 - Inserted transaction 8d67a94f-bd3c-4299-b4ec-af48f8593225
+2024-11-16 16:35:06,143 - Inserted transaction a0ad4ca2-c730-4c77-ad2b-adeaddeebf97
+2024-11-16 16:35:06,143 - Inserted transaction 60badf9f-5b9b-48f8-b188-781eb1cd4970
+2024-11-16 16:35:06,144 - Inserted transaction ab2aaa23-ed27-4ba1-b61d-0360fa3243df
+2024-11-16 16:35:06,144 - Inserted transaction 26d2ea56-bf15-4167-b05d-d51bacef8c18
+2024-11-16 16:35:06,144 - Inserted transaction 562beb9c-0d7d-43af-9399-6a8c37bc5650
+2024-11-16 16:35:06,145 - Inserted transaction 3294b1af-f6c5-44d0-8c88-ae71d3ce21b4
+2024-11-16 16:35:06,145 - Inserted transaction 1ca667a1-5c2b-41e8-aa5f-132ac97c5cc1
+2024-11-16 16:35:06,146 - Inserted transaction 7924cb5e-b9d9-408e-8916-5a64ae5170df
+2024-11-16 16:35:06,146 - Inserted transaction ef2de77b-1a7d-4a2a-b7ad-f561af0d57b2
+2024-11-16 16:35:06,147 - Inserted transaction 1d4ce2b5-e235-41e3-b96e-b997b8497602
+2024-11-16 16:35:06,147 - Inserted transaction 95399141-534c-4ff6-9dca-1c31b3537c5d
+2024-11-16 16:35:06,147 - Inserted transaction d1c76efa-8252-4615-a75b-c03ab1119555
+2024-11-16 16:35:06,147 - Inserted transaction e34d0699-5ac8-4563-b152-2cf9c09ba5cc
+2024-11-16 16:35:06,148 - Inserted transaction da60f990-c7b7-4970-b212-22d302c83c0f
+2024-11-16 16:35:06,148 - Inserted transaction ac707e3a-c038-4cb4-b350-10b7b57fc8b5
+2024-11-16 16:35:06,148 - Inserted transaction df56dea8-4b67-42ad-9805-a975262a653a
+2024-11-16 16:35:06,148 - Inserted transaction c561c994-47a2-4b3f-9599-de4ec223e5e9
+2024-11-16 16:35:06,148 - Inserted transaction 8362c083-466b-44b4-a70b-8699b2324b03
+2024-11-16 16:35:06,148 - Inserted transaction 0622e6c0-3484-4d3e-b79a-d08da64d9249
+2024-11-16 16:35:06,148 - Inserted transaction ba2e4353-f19d-4d48-9e95-63d7df983ce3
+2024-11-16 16:35:06,148 - Inserted transaction 2fe85cc3-b6eb-4911-bc01-358473d58a31
+2024-11-16 16:35:06,148 - Inserted transaction f585aad4-112c-4485-b7de-14795ad70d6c
+2024-11-16 16:35:06,149 - Inserted transaction 369c626d-fe84-4a19-b38a-0b97c896a846
+2024-11-16 16:35:06,149 - Inserted transaction 32639a99-c989-4658-918c-0d54fcd93167
+2024-11-16 16:35:06,149 - Inserted transaction ad92ef5a-9b74-45c1-8234-bd6afca296a5
+2024-11-16 16:35:06,149 - Inserted transaction e09156e3-8341-4ef8-b472-edc75cafd071
+2024-11-16 16:35:06,149 - Inserted transaction 6fe31868-50ef-4d20-bfe9-1f92f295da19
+2024-11-16 16:35:06,149 - Inserted transaction 4f0260df-ae32-463b-98e4-aa8b093cf177
+2024-11-16 16:35:06,149 - Inserted transaction 0101a281-bf0c-42b5-a45e-8f31c52f2971
+2024-11-16 16:35:06,149 - Inserted transaction 879907e7-9a47-4269-aded-e8ab4c2aa290
+2024-11-16 16:35:06,149 - Inserted transaction e6ec051e-ecdb-4b1e-89a8-0b1fdbf545a8
+2024-11-16 16:35:06,149 - Inserted transaction 03f2c4c6-f0ae-4495-973e-e9c33b62e892
+2024-11-16 16:35:06,150 - Inserted transaction 77079741-c49d-4d6e-8f7c-ac65ed0cbcdc
+2024-11-16 16:35:06,150 - Inserted transaction f2faa892-c5e1-4ce8-8212-de8df3f8077b
+2024-11-16 16:35:06,150 - Inserted transaction f305621f-14bd-4a26-acf0-be163aec0c5e
+2024-11-16 16:35:06,150 - Inserted transaction 714994e1-017a-42d2-93a2-8324be026bd2
+2024-11-16 16:35:06,150 - Inserted transaction 051baddc-4d77-43de-b039-360fa71cabf3
+2024-11-16 16:35:06,150 - Inserted transaction 874cff07-bc41-4c92-a045-ef6d6d6f1d22
+2024-11-16 16:35:06,150 - Inserted transaction ed9c2213-8721-4c7a-a0b1-5a1cd4b683c2
+2024-11-16 16:35:06,150 - Inserted transaction 12864a3a-a12b-465a-bd7e-0b8446a6ca2f
+2024-11-16 16:35:06,150 - Inserted transaction d32b1f02-78a8-4d99-b436-20d4ad9979e4
+2024-11-16 16:35:06,150 - Inserted transaction d6c7ba26-4090-41d8-813e-bd723bb95147
+2024-11-16 16:35:06,151 - Inserted transaction c8892e72-0d84-48f4-8361-b625ca156259
+2024-11-16 16:35:06,151 - Inserted transaction f967c740-83fe-4717-8a7a-591e5d75d7b4
+2024-11-16 16:35:06,151 - Inserted transaction 71dd2ed1-f7d7-46ad-89b5-53200c22cb0a
+2024-11-16 16:35:06,151 - Inserted transaction 502eac85-ed11-4310-83e0-47e65cbd5957
+2024-11-16 16:35:06,151 - Inserted transaction 237d1bfc-2dc2-4f45-abdd-3efbd2d86744
+2024-11-16 16:35:06,151 - Inserted transaction 3c7227e4-a42f-43d8-bf18-488608c0e0c0
+2024-11-16 16:35:06,151 - Inserted transaction 4b2205e8-559a-4ab6-a6fc-b7da2c38fe81
+2024-11-16 16:35:06,151 - Inserted transaction c1bc816d-a01e-4457-801f-cd64eb5a89c4
+2024-11-16 16:35:06,151 - Inserted transaction a4b43341-f885-49dd-a06c-e8c073897453
+2024-11-16 16:35:06,151 - Inserted transaction 1cb0c51b-af95-4f4b-98c4-06c8112ee6cc
+2024-11-16 16:35:06,151 - Inserted transaction 48118071-c024-4441-8461-4a7cff392de0
+2024-11-16 16:35:06,152 - Inserted transaction c14cd8b9-dd6e-4663-bc1b-6643cde024a1
+2024-11-16 16:35:06,152 - Inserted transaction 62c80c2f-95d2-41ce-861b-7a314e967000
+2024-11-16 16:35:06,152 - Inserted transaction 81e78f59-245f-472a-8d72-f49e7b98222b
+2024-11-16 16:35:06,152 - Inserted transaction a24bfb74-5fa3-477a-abfa-6edf20f089be
+2024-11-16 16:35:06,152 - Inserted transaction 3a06e873-fb9d-4f6a-86fa-3b0d2a329a83
+2024-11-16 16:35:06,152 - Inserted transaction 3f50e916-8a1a-4317-a971-5d413292af24
+2024-11-16 16:35:06,152 - Inserted transaction dcb8e331-afd9-4d01-81ec-e5a30b815fe4
+2024-11-16 16:35:06,152 - Inserted transaction b8bd74fc-736c-4fbd-bf45-a09030119860
+2024-11-16 16:35:06,152 - Inserted transaction 3558f9af-e3e5-4cbb-bb8a-b903af94b18e
+2024-11-16 16:35:06,152 - Inserted transaction b1bb61a1-edc9-4bdd-b659-8ba0cd4a4d42
+2024-11-16 16:35:06,153 - Inserted transaction 5715b7d1-17bb-4474-ae6a-bb7787557fef
+2024-11-16 16:35:06,153 - Inserted transaction c34cf8f6-477d-4688-a4ae-eac1e02b0adc
+2024-11-16 16:35:06,153 - Inserted transaction 6459e668-69f5-4240-9f51-4e453799a112
+2024-11-16 16:35:06,153 - Inserted transaction 3547b0bb-e615-497c-9b3a-0c026aff1b33
+2024-11-16 16:35:06,153 - Inserted transaction bd1efd60-661b-4a8a-8959-8feb7a289b66
+2024-11-16 16:35:06,153 - Inserted transaction aa0f5795-35f2-411e-92ef-fdbe01bff6fe
+2024-11-16 16:35:06,153 - Inserted transaction 207e155d-1b25-4a15-a7ab-04556555142c
+2024-11-16 16:35:06,153 - Inserted transaction 226a5159-c78d-4262-9ace-9f6e4e1f08b3
+2024-11-16 16:35:06,153 - Inserted transaction bcc06d0f-c9b5-40c9-9d10-43d3195c2c58
+2024-11-16 16:35:06,153 - Inserted transaction 3913e64d-a8d8-44c7-96dd-8a0fea235083
+2024-11-16 16:35:06,153 - Inserted transaction bf168a72-b428-432b-b504-7dc0234571ed
+2024-11-16 16:35:06,154 - Inserted transaction a523dff7-fddd-4d6a-979c-a30b9a854217
+2024-11-16 16:35:06,154 - Inserted transaction b6a4dcee-2f2e-4ca9-9293-3f9e0c0e4664
+2024-11-16 16:35:06,154 - Inserted transaction 86b1d06b-a98c-451c-a852-611bd712782f
+2024-11-16 16:35:06,154 - Inserted transaction 999b35ec-beeb-49d0-887e-d5aba48a0307
+2024-11-16 16:35:06,154 - Inserted transaction e092ae23-d95c-4c6f-853c-ca49586cf15c
+2024-11-16 16:35:06,154 - Inserted transaction bcdc10fc-0388-4497-8c99-8d3060fe6f69
+2024-11-16 16:35:06,154 - Inserted transaction 082d61a9-b67e-44b3-85af-520e48cd865e
+2024-11-16 16:35:06,154 - Inserted transaction 151024a7-f564-432a-8cfd-fef5dc923180
+2024-11-16 16:35:06,154 - Inserted transaction f81161d6-da8c-4faf-a840-411b31594d14
+2024-11-16 16:35:06,154 - Inserted transaction be0284a9-f9cb-4081-b624-90f286ffc5d3
+2024-11-16 16:35:06,154 - Inserted transaction 374eccdf-5212-48e5-8aba-753b8dda4111
+2024-11-16 16:35:06,155 - Inserted transaction c950e39d-b14a-4db8-a62d-f6c36efaafa1
+2024-11-16 16:35:06,173 - Total inserted: 100, Total not inserted: 0
+2024-11-17 16:35:17,358 - Inserted transaction eab2a441-c852-4c8e-96de-34210b1706b5
+2024-11-17 16:35:17,360 - Inserted transaction a7aee676-f2a0-48c5-b615-ecf1e71f7d0e
+2024-11-17 16:35:17,361 - Inserted transaction 85672fe6-398a-49fa-92ae-af0754525714
+2024-11-17 16:35:17,361 - Inserted transaction bbc5bf96-0121-40f1-8c8d-ddb23b1b8cfc
+2024-11-17 16:35:17,362 - Inserted transaction 6fca6c5b-62a6-4415-b288-4299bcb42103
+2024-11-17 16:35:17,362 - Inserted transaction d08339c7-c59b-4bce-b712-87ad25f12a8a
+2024-11-17 16:35:17,362 - Inserted transaction 6a65fa2c-01a8-4c2a-807b-3f51cf2b5a35
+2024-11-17 16:35:17,363 - Inserted transaction 1ce08fc8-824d-4716-8a29-877f8e9b2e80
+2024-11-17 16:35:17,364 - Inserted transaction d0e7e88a-bc86-49be-90ac-ef09b0d16e70
+2024-11-17 16:35:17,364 - Inserted transaction d210765c-c97e-4f58-8203-5d6b43367d33
+2024-11-17 16:35:17,364 - Inserted transaction dee7c85f-bb21-4c49-9190-72af4a886243
+2024-11-17 16:35:17,365 - Inserted transaction 5062a55f-be9d-428e-8e33-cd53b58536d5
+2024-11-17 16:35:17,365 - Inserted transaction 998e7217-969f-4f00-982c-78db0024942c
+2024-11-17 16:35:17,365 - Inserted transaction 14c78801-af24-496f-b62a-8302d3368bae
+2024-11-17 16:35:17,366 - Inserted transaction c0583338-88f1-46ad-a585-9c3911c5fd02
+2024-11-17 16:35:17,366 - Inserted transaction e025841c-9246-4ff3-918d-0cc867c1394f
+2024-11-17 16:35:17,366 - Inserted transaction 1aba5988-fff7-4f23-8993-4aeddfe1697a
+2024-11-17 16:35:17,366 - Inserted transaction 0d71f811-98af-40a8-9c03-f4c20d3b374e
+2024-11-17 16:35:17,367 - Inserted transaction 8715f591-a8c5-4b37-9a49-bfd5494d5c08
+2024-11-17 16:35:17,367 - Inserted transaction 91849725-9dd0-41b2-9ca6-085c1f9f3ab0
+2024-11-17 16:35:17,368 - Inserted transaction c639900f-dc41-4802-ae20-91bb8908f3dd
+2024-11-17 16:35:17,368 - Inserted transaction 46e24637-a31a-446a-9af7-ee25b9f06917
+2024-11-17 16:35:17,368 - Inserted transaction a652d3a4-800a-4816-9e7c-d76fd9aee380
+2024-11-17 16:35:17,369 - Inserted transaction 88402253-3b20-4b3d-b011-1752ffd74983
+2024-11-17 16:35:17,369 - Inserted transaction b8292303-2408-4b34-bf17-87ff68fcdf1a
+2024-11-17 16:35:17,369 - Inserted transaction aee5b080-6a15-4c7f-a843-408e342f6ca1
+2024-11-17 16:35:17,369 - Inserted transaction 2402a8c5-79c2-423a-a5a4-01b4884b9840
+2024-11-17 16:35:17,369 - Inserted transaction de3caa4e-0e4b-4371-a666-2c88e86fd43b
+2024-11-17 16:35:17,369 - Inserted transaction f332b42f-92ec-4288-b96f-52eabf353406
+2024-11-17 16:35:17,369 - Inserted transaction 6075a7d0-f19e-4205-ac4f-83cd262d88ad
+2024-11-17 16:35:17,369 - Inserted transaction 59059f9a-ae9b-409f-8435-c311552f96de
+2024-11-17 16:35:17,370 - Inserted transaction f0a972aa-97fe-4611-894d-b598daf1fcaa
+2024-11-17 16:35:17,370 - Inserted transaction eef1ce85-1528-4c85-9deb-4cca9bf1458f
+2024-11-17 16:35:17,370 - Inserted transaction c01eabbf-7a48-4c83-b40f-fe063a66e3d5
+2024-11-17 16:35:17,370 - Inserted transaction c7c9546f-1119-4cb3-8b00-775fedbf9af5
+2024-11-17 16:35:17,370 - Inserted transaction c737b9d4-3439-4929-9626-f27bbfc0aa83
+2024-11-17 16:35:17,370 - Inserted transaction e1a6e4fc-da0d-496e-a9a0-c9a94e95a207
+2024-11-17 16:35:17,370 - Inserted transaction 48d27e41-1763-4eb5-8f84-72ee1f3953a7
+2024-11-17 16:35:17,370 - Inserted transaction 7d5a066a-4819-4fbc-808d-624d833d6916
+2024-11-17 16:35:17,371 - Inserted transaction aaf382fe-4656-4f70-83e3-750da096991a
+2024-11-17 16:35:17,371 - Inserted transaction e3fba1de-3021-4bf4-8c1d-c4eb362f9fe6
+2024-11-17 16:35:17,371 - Inserted transaction d351755f-0e04-45f5-823d-c3491e291498
+2024-11-17 16:35:17,371 - Inserted transaction d1995eed-818d-404c-b3f8-e5e93e399eb0
+2024-11-17 16:35:17,371 - Inserted transaction ade08813-b9af-4ad2-81ad-6085fb1e59a0
+2024-11-17 16:35:17,371 - Inserted transaction d7d3997a-4a2b-4ce2-b81f-da654bd81baf
+2024-11-17 16:35:17,371 - Inserted transaction 8a53a156-f6ca-4dfd-8027-3afa73368f74
+2024-11-17 16:35:17,371 - Inserted transaction c88ccaea-f3e4-42a8-b80e-b42b7120728a
+2024-11-17 16:35:17,371 - Inserted transaction feaa5997-48ce-4a74-871d-81ac57b036ed
+2024-11-17 16:35:17,371 - Inserted transaction 5f2287ce-36d2-4fc0-9e85-08aa48a97a10
+2024-11-17 16:35:17,372 - Inserted transaction c148de39-ea71-484c-ad2e-75cf30e0fe21
+2024-11-17 16:35:17,372 - Inserted transaction 1da6526e-9b23-4a05-aa5a-1703cd14c0f5
+2024-11-17 16:35:17,372 - Inserted transaction e1e2c808-7993-4f17-a06c-363b0b8d9a40
+2024-11-17 16:35:17,372 - Inserted transaction 4a1845dd-cdeb-4097-9456-d1eb4178f850
+2024-11-17 16:35:17,372 - Inserted transaction fb58cffd-c294-4615-a58e-f2599d3b29e9
+2024-11-17 16:35:17,372 - Inserted transaction e28bdd37-a63f-4c10-88fb-7b855d9a8b24
+2024-11-17 16:35:17,372 - Inserted transaction fcd54a37-28ed-4211-86eb-3e057e18de6d
+2024-11-17 16:35:17,372 - Inserted transaction 872ddd93-6bbe-4aa2-9949-26a906ee1eff
+2024-11-17 16:35:17,372 - Inserted transaction 7e8f35f5-a237-4714-a999-74eb59f0eab9
+2024-11-17 16:35:17,373 - Inserted transaction e65367f6-87d2-4e7f-9277-12fe040c24d6
+2024-11-17 16:35:17,373 - Inserted transaction de7624dd-5a12-4ba1-9776-f8cbe82e2c49
+2024-11-17 16:35:17,373 - Inserted transaction e9dd88e1-3001-412d-918a-a69e64b7e56a
+2024-11-17 16:35:17,373 - Inserted transaction 1b92bef7-1dd5-4530-8718-6f2c18ae4d88
+2024-11-17 16:35:17,374 - Inserted transaction ad4cb5a9-cfee-4474-bb04-52c26b9fc392
+2024-11-17 16:35:17,374 - Inserted transaction 0ed39bff-874a-4e56-8a2b-1d47643cd94a
+2024-11-17 16:35:17,374 - Inserted transaction 9bb36c38-8129-47c9-9576-2a28719b890d
+2024-11-17 16:35:17,374 - Inserted transaction 09e5b786-5c7e-48d5-a59e-8642290241b4
+2024-11-17 16:35:17,374 - Inserted transaction efd37a3f-4b64-447b-9ab5-a63780ef8453
+2024-11-17 16:35:17,375 - Inserted transaction 89f6bed2-9dcc-459e-a2db-6bef4e13927d
+2024-11-17 16:35:17,375 - Inserted transaction 1deb23e6-8a72-441b-8695-18d2294f3992
+2024-11-17 16:35:17,375 - Inserted transaction 4e7f822e-03ea-48a9-9810-32069a395dc8
+2024-11-17 16:35:17,375 - Inserted transaction b01fd58e-7f39-4c3f-84f8-eb70d53a3480
+2024-11-17 16:35:17,375 - Inserted transaction 6387d18b-7b8d-4fbf-a0cb-e2cc0c73460e
+2024-11-17 16:35:17,376 - Inserted transaction 38c220c3-3718-4530-9b4b-2b6b3dfc6f81
+2024-11-17 16:35:17,376 - Inserted transaction b2b35e23-b19a-4034-a66d-1f8e3d948a8d
+2024-11-17 16:35:17,376 - Inserted transaction f5165ca7-199a-48bb-a799-0fca4c30587f
+2024-11-17 16:35:17,376 - Inserted transaction 12f81c24-25c6-47af-9b91-b6e59bc61118
+2024-11-17 16:35:17,376 - Inserted transaction 02b921e2-da2a-4b4c-ad42-f692f1d2df60
+2024-11-17 16:35:17,376 - Inserted transaction 741c0657-6d70-4bc1-a501-e8befa54843e
+2024-11-17 16:35:17,377 - Inserted transaction 67e2815c-5d3f-4fe7-ba58-afe853ffbb7a
+2024-11-17 16:35:17,377 - Inserted transaction 668780d1-ae8c-4caf-b2c1-860132950797
+2024-11-17 16:35:17,377 - Inserted transaction 13674ea7-e595-4aa3-90e0-714229d18e8a
+2024-11-17 16:35:17,377 - Inserted transaction fba622c7-0c4c-4715-84bc-c1d8cef3773a
+2024-11-17 16:35:17,377 - Inserted transaction 28071307-6a95-4cde-8721-976dd81e55e0
+2024-11-17 16:35:17,377 - Inserted transaction c1382b95-fc72-48a8-9b92-4c5637f51844
+2024-11-17 16:35:17,378 - Inserted transaction 34848233-929a-49fd-9fed-ca8cd7fcc173
+2024-11-17 16:35:17,378 - Inserted transaction 85d713d0-2261-4210-aed2-535b2cf70339
+2024-11-17 16:35:17,378 - Inserted transaction 7c2b54e1-3ef8-4064-acbc-84d330a96f3c
+2024-11-17 16:35:17,378 - Inserted transaction 77f923c3-9287-481d-8a0f-7c87f1d39dec
+2024-11-17 16:35:17,378 - Inserted transaction 594da471-00a8-47fa-8b27-82d576542ed9
+2024-11-17 16:35:17,378 - Inserted transaction 56b36f91-0fcd-41a8-b454-3dee2810bfb2
+2024-11-17 16:35:17,378 - Inserted transaction 7edff558-1e0b-4f3c-801b-8bb67a11d7e5
+2024-11-17 16:35:17,378 - Inserted transaction 61d3469f-0bc3-4605-977e-a10cfb20e085
+2024-11-17 16:35:17,378 - Inserted transaction 24dd5fed-2e7a-4f34-9c01-27836bb72a5d
+2024-11-17 16:35:17,378 - Inserted transaction 721ba40c-1263-4088-8f43-8a6df6cbdc6a
+2024-11-17 16:35:17,379 - Inserted transaction 3ee9be4f-cc67-4aab-b3a9-a6cc56bbdc9e
+2024-11-17 16:35:17,379 - Inserted transaction 92336feb-4071-4336-987c-8dfbb6c53689
+2024-11-17 16:35:17,379 - Inserted transaction 6e242fa0-71b0-4e6d-aff9-a35e532a9e1a
+2024-11-17 16:35:17,379 - Inserted transaction c8805402-74ec-4114-ae4f-36baeaaa8db8
+2024-11-17 16:35:17,379 - Inserted transaction aac5fe78-d5a5-4d79-a81a-a648d5195018
+2024-11-17 16:35:17,379 - Inserted transaction 07e42915-6d2a-4842-9688-3777d49d3c80
+2024-11-17 16:35:17,397 - Total inserted: 100, Total not inserted: 0
+2024-11-17 16:43:16,744 - Inserted transaction f791e45d-f1bc-4a75-bb05-8a7a7eeb5f1c
+2024-11-17 16:43:16,745 - Inserted transaction 744f423b-8a65-4101-9cc1-e8bda3375a5e
+2024-11-17 16:43:16,746 - Inserted transaction 19e22c57-a3c4-436c-93a0-f104117956d8
+2024-11-17 16:43:16,746 - Inserted transaction 40e9e7d2-b187-48ad-bdf7-b676bf42da90
+2024-11-17 16:43:16,747 - Inserted transaction f349d16d-11b0-498b-8839-d12934f31319
+2024-11-17 16:43:16,747 - Inserted transaction 86514267-d096-46e8-9b2f-b05faa314d46
+2024-11-17 16:43:16,747 - Inserted transaction 9eacb293-9379-417a-9da3-024b584f8594
+2024-11-17 16:43:16,747 - Inserted transaction 90d42093-a53e-4a4d-8446-ada1920b8e27
+2024-11-17 16:43:16,748 - Inserted transaction 3d2fdac0-aedf-4804-ad62-b5f8bbc29384
+2024-11-17 16:43:16,748 - Inserted transaction 90fbacd7-69f2-42f0-91f6-e681fabc3496
+2024-11-17 16:43:16,748 - Inserted transaction 3f25a662-e2c3-4ba5-ac8a-7c1fab5b4802
+2024-11-17 16:43:16,749 - Inserted transaction ae185f7e-1f66-42f6-aa2d-dc18663a8479
+2024-11-17 16:43:16,749 - Inserted transaction 6fe9744f-b9e3-442b-ba5c-ec09eebd0491
+2024-11-17 16:43:16,749 - Inserted transaction 881bd0d8-833d-45b8-ada9-638b3f553e0a
+2024-11-17 16:43:16,749 - Inserted transaction cc893cbc-69a3-4b9d-a15b-657c3a448de1
+2024-11-17 16:43:16,750 - Inserted transaction 362935b8-8612-4682-b595-f3f3384746dd
+2024-11-17 16:43:16,750 - Inserted transaction 0bfb96bb-4793-4da7-9c94-532e0aefa48d
+2024-11-17 16:43:16,750 - Inserted transaction b3105cf8-088f-43c0-b093-d7621bcd8013
+2024-11-17 16:43:16,751 - Inserted transaction dd48dee8-62c2-4bc9-af20-9560636510ff
+2024-11-17 16:43:16,751 - Inserted transaction 923e43b4-322a-4c00-bc00-feacf7041593
+2024-11-17 16:43:16,751 - Inserted transaction 225d8914-3389-4923-a256-26051f4f4364
+2024-11-17 16:43:16,751 - Inserted transaction 975541f9-34ff-4bc6-be27-2c118fac2c86
+2024-11-17 16:43:16,751 - Inserted transaction fbdd7cac-7b94-43aa-b7bd-950b8badde49
+2024-11-17 16:43:16,751 - Inserted transaction e82a4b64-c6a7-4f46-9996-47ac9c27edcf
+2024-11-17 16:43:16,751 - Inserted transaction 675a76be-7f5c-4671-bd8a-a4e1a7f22ad3
+2024-11-17 16:43:16,752 - Inserted transaction 720cc676-e442-40c2-bef6-c2d5c4f50f8c
+2024-11-17 16:43:16,752 - Inserted transaction 69586460-49d5-4d54-8239-76c94a72e45f
+2024-11-17 16:43:16,752 - Inserted transaction 6e2f388f-cb0c-4413-afef-44b6556e2460
+2024-11-17 16:43:16,752 - Inserted transaction 145b86d1-1dee-4439-9cfb-2c4add683dd7
+2024-11-17 16:43:16,752 - Inserted transaction 514b80eb-a86e-4b2a-b750-6752dac8a2d3
+2024-11-17 16:43:16,752 - Inserted transaction 1ff59ce1-7a1b-45d2-b1cf-619b4f40cdb0
+2024-11-17 16:43:16,752 - Inserted transaction 811d047c-6ae6-4702-add8-3458bd6f8d07
+2024-11-17 16:43:16,752 - Inserted transaction 9a3a4991-4869-4ee1-b929-ff554084dc36
+2024-11-17 16:43:16,752 - Inserted transaction f3f3b2ec-c3fa-4b2a-8332-f3a68c1cdb47
+2024-11-17 16:43:16,752 - Inserted transaction fa071e01-77ac-4be1-aaa9-dee1edcc349b
+2024-11-17 16:43:16,753 - Inserted transaction 07a2ab45-cc65-450e-b1bf-2a98a05f9164
+2024-11-17 16:43:16,753 - Inserted transaction 890a5eaa-1843-4118-85e2-6669efbef5d1
+2024-11-17 16:43:16,753 - Inserted transaction 6bb6ba6e-d4f0-4162-a077-89c6eb1088f3
+2024-11-17 16:43:16,753 - Inserted transaction 548bdbbe-625f-4b9f-8b99-a0c66ff79064
+2024-11-17 16:43:16,753 - Inserted transaction b5539e7d-9f6c-48ff-9a1b-02ce207a4ad6
+2024-11-17 16:43:16,753 - Inserted transaction 7ba4e66b-1768-4813-810f-9b0d168594e6
+2024-11-17 16:43:16,753 - Inserted transaction 2a3d0461-3da9-425f-82ac-f3482f8d4da4
+2024-11-17 16:43:16,753 - Inserted transaction 2b100012-d647-4c57-a622-70cf9cc619c3
+2024-11-17 16:43:16,753 - Inserted transaction afdba220-9950-4e13-930a-56f9e193cb5b
+2024-11-17 16:43:16,754 - Inserted transaction bb45802d-8a04-45b6-a526-48ee63079211
+2024-11-17 16:43:16,754 - Inserted transaction eba85bab-af8a-430f-b720-aa0bb70aeb42
+2024-11-17 16:43:16,754 - Inserted transaction bb010466-57b0-424a-b1a9-2cbc177c6f5e
+2024-11-17 16:43:16,754 - Inserted transaction 61a55691-2e81-4cef-b513-f53cc0e27bf1
+2024-11-17 16:43:16,754 - Inserted transaction 8437ecff-631a-4ea6-bd9d-81972050593f
+2024-11-17 16:43:16,754 - Inserted transaction ab7533be-f23f-4ad0-85ea-9c1056dc7b11
+2024-11-17 16:43:16,754 - Inserted transaction 952e98e7-a6ba-4f29-8374-77fa04f66fcc
+2024-11-17 16:43:16,754 - Inserted transaction a2f4ef77-e606-4101-887e-58b0c26ffe82
+2024-11-17 16:43:16,754 - Inserted transaction 52bb7632-78b1-4313-833f-c520d4f84912
+2024-11-17 16:43:16,754 - Inserted transaction f4cd82b9-16ee-465f-b71d-1f8a6d1e9e6c
+2024-11-17 16:43:16,755 - Inserted transaction 91384514-2353-43c1-b0c4-f604ccb4f88f
+2024-11-17 16:43:16,755 - Inserted transaction 6a10d4f2-0f0d-44d5-be83-339272b2dc95
+2024-11-17 16:43:16,755 - Inserted transaction 0951ca4f-8d3e-4686-a06c-ecd14d2c1652
+2024-11-17 16:43:16,755 - Inserted transaction a13183a4-7051-4c66-a3e6-c16483392bd8
+2024-11-17 16:43:16,755 - Inserted transaction c0227a03-0c36-40d3-99d0-5617a2e5767b
+2024-11-17 16:43:16,755 - Inserted transaction 5b95df55-6341-420e-a2b2-3ff08163f846
+2024-11-17 16:43:16,755 - Inserted transaction c821bf0e-0aea-460c-b3eb-1779d457b657
+2024-11-17 16:43:16,755 - Inserted transaction 62c14819-23b5-4217-b8bc-725a6ec64b23
+2024-11-17 16:43:16,755 - Inserted transaction f949eb17-081c-4813-b103-eae4df9d41b7
+2024-11-17 16:43:16,756 - Inserted transaction e8e1b487-20de-4200-9c58-6cc4e0b488f4
+2024-11-17 16:43:16,756 - Inserted transaction a7a06618-407e-46d3-ac8f-6babe1b10693
+2024-11-17 16:43:16,756 - Inserted transaction 534ce32f-1297-4cc6-b724-7efd26c91e5d
+2024-11-17 16:43:16,756 - Inserted transaction 55c8614d-ea88-434b-a850-bb8bf2db3f1b
+2024-11-17 16:43:16,756 - Inserted transaction 2c4225fa-3e64-4d52-a83d-90d98975f30e
+2024-11-17 16:43:16,756 - Inserted transaction f9053863-882a-480a-86c2-eb3af5febbce
+2024-11-17 16:43:16,756 - Inserted transaction 29de89df-1c9f-4d91-b86e-5af4671b93d9
+2024-11-17 16:43:16,756 - Inserted transaction 4c916061-9c6d-4cc0-bd6e-2b9b2599c790
+2024-11-17 16:43:16,756 - Inserted transaction 07bf82ae-4dfc-4957-bdfd-66ff547bc943
+2024-11-17 16:43:16,756 - Inserted transaction 449b97b7-1f12-46d4-a929-f192c5c8f30d
+2024-11-17 16:43:16,757 - Inserted transaction 9bf9f29e-0b8d-40b2-9f54-2527249d87ad
+2024-11-17 16:43:16,757 - Inserted transaction be75dcb3-6d3b-4bb3-af48-8bd3c9dccb23
+2024-11-17 16:43:16,757 - Inserted transaction 31f9839c-9adb-48da-862f-56614c4bca9d
+2024-11-17 16:43:16,757 - Inserted transaction 97dec652-208e-4f69-9866-0957d3e69855
+2024-11-17 16:43:16,757 - Inserted transaction 053aed6a-9454-474e-ad62-75767f1d8c7a
+2024-11-17 16:43:16,757 - Inserted transaction 24c65562-cca8-4daa-93a4-66e98d5239db
+2024-11-17 16:43:16,757 - Inserted transaction 903ac99f-9fc9-4763-ba12-562ec1ae2126
+2024-11-17 16:43:16,757 - Inserted transaction 5da3ad50-1272-4592-9693-446041991326
+2024-11-17 16:43:16,757 - Inserted transaction 4fa0cce9-b0c8-4858-a918-f15606360599
+2024-11-17 16:43:16,757 - Inserted transaction 2c0ceb07-be64-4932-9d53-95cd95dce317
+2024-11-17 16:43:16,757 - Inserted transaction 23dc5782-da4a-445b-be9c-9e7bd827e572
+2024-11-17 16:43:16,758 - Inserted transaction 9925c896-f538-4bee-9da5-c34793e33884
+2024-11-17 16:43:16,758 - Inserted transaction a1fa82fe-1db8-4224-aa7b-ba264d6b5c83
+2024-11-17 16:43:16,758 - Inserted transaction 74f6b24b-be30-446b-8538-266beb2c1880
+2024-11-17 16:43:16,758 - Inserted transaction 1f859dd8-9dfe-4d5f-9491-d6f641969152
+2024-11-17 16:43:16,758 - Inserted transaction 253f7144-45cd-4375-bd67-98500de1a3b8
+2024-11-17 16:43:16,758 - Inserted transaction 2237a339-f345-44bb-867e-c626aad783ef
+2024-11-17 16:43:16,758 - Inserted transaction 514f1942-1765-4266-973c-1b032518c597
+2024-11-17 16:43:16,758 - Inserted transaction a3a19d64-1fd1-43f9-8451-78e054692ce2
+2024-11-17 16:43:16,758 - Inserted transaction 83208304-c402-4911-9693-97709f246417
+2024-11-17 16:43:16,758 - Inserted transaction f13557b6-0944-4f55-99b6-498a42dfa020
+2024-11-17 16:43:16,758 - Inserted transaction f570528f-b37c-405a-a5e6-535799ef4393
+2024-11-17 16:43:16,759 - Inserted transaction e3b610e0-f58a-46ed-b638-20e41295adac
+2024-11-17 16:43:16,759 - Inserted transaction ae4e02ed-4bf7-4458-9378-71f1c2869311
+2024-11-17 16:43:16,759 - Inserted transaction f45c9282-0123-4c05-a4aa-bab08a47a533
+2024-11-17 16:43:16,759 - Inserted transaction aedf35ba-8fbf-46cc-ac64-32dcad769aef
+2024-11-17 16:43:16,759 - Inserted transaction 6f481519-4888-4b5b-ae10-f749a1c84ba0
+2024-11-17 16:43:16,778 - Total inserted: 100, Total not inserted: 0
+2024-11-17 16:46:10,736 - Inserted transaction 243d8873-65da-45b5-aad3-984dee13e018
+2024-11-17 16:46:10,737 - Inserted transaction 7d639b3c-6ddb-46b5-9c66-3a07b0574e62
+2024-11-17 16:46:10,737 - Inserted transaction e46b5ab1-cb43-46bb-8bd3-55501f705b7a
+2024-11-17 16:46:10,738 - Inserted transaction 7b29c388-1a61-41b0-8b6b-9b253646a052
+2024-11-17 16:46:10,738 - Inserted transaction c0562103-1aba-44f5-9d24-c22633645d70
+2024-11-17 16:46:10,738 - Inserted transaction 0a5693da-2cc2-4463-a4a1-e019c45bebbc
+2024-11-17 16:46:10,738 - Inserted transaction 2c55ca6f-d9df-4068-bcef-311822c3e756
+2024-11-17 16:46:10,739 - Inserted transaction 8a7aef04-9eeb-4567-a092-c172f9f1a551
+2024-11-17 16:46:10,739 - Inserted transaction ec17ce6f-67f9-4240-be53-cae0ebba8f38
+2024-11-17 16:46:10,739 - Inserted transaction f032b1f0-c3ca-4e14-aacf-ce07ce8f709d
+2024-11-17 16:46:10,740 - Inserted transaction 3631b623-d1d5-4118-a61d-1c353633b932
+2024-11-17 16:46:10,740 - Inserted transaction e3221c8a-40fe-4916-8632-d4268ee66611
+2024-11-17 16:46:10,740 - Inserted transaction 8522a1f3-6264-4ae2-b387-5b0ef693919e
+2024-11-17 16:46:10,741 - Inserted transaction 7349ca08-cb25-4588-8f0a-dc4e6496e301
+2024-11-17 16:46:10,741 - Inserted transaction 24d9823b-4929-41c2-8601-36fa3a07dc51
+2024-11-17 16:46:10,741 - Inserted transaction 21e34c53-918a-40c6-bc0e-7cf5824356d9
+2024-11-17 16:46:10,741 - Inserted transaction f1e3f3d0-c31a-4699-acb9-a8a4a378b706
+2024-11-17 16:46:10,741 - Inserted transaction 4d6a33a5-9d77-4ac0-b6ad-c7481633b0f9
+2024-11-17 16:46:10,741 - Inserted transaction 2a1949cf-bdaf-463d-93f5-6dfb26474cee
+2024-11-17 16:46:10,741 - Inserted transaction a39d10aa-2e11-41ac-9ee1-df1d87a0de99
+2024-11-17 16:46:10,741 - Inserted transaction cb2bddf7-6086-44f0-9392-8775ae02fb79
+2024-11-17 16:46:10,741 - Inserted transaction 7b1f4ab1-5771-48db-a8fc-59a2836677c7
+2024-11-17 16:46:10,742 - Inserted transaction 03fbbd5c-efb9-459a-a749-7364a36ed515
+2024-11-17 16:46:10,742 - Inserted transaction 37dc1cf9-db87-4939-8307-9286f5c56682
+2024-11-17 16:46:10,742 - Inserted transaction 308d5be1-7f1b-4d38-89d9-2a93ff3a2579
+2024-11-17 16:46:10,742 - Inserted transaction 288c5d2d-3eee-4277-8374-1e75e834df7c
+2024-11-17 16:46:10,742 - Inserted transaction 9cf4d1ac-23db-4157-bb5c-7eba6aa444a9
+2024-11-17 16:46:10,742 - Inserted transaction 00d2b470-ad46-486e-8b28-9b6f75500b5e
+2024-11-17 16:46:10,742 - Inserted transaction 9218a1dd-d001-4831-a888-ae744ccf50b4
+2024-11-17 16:46:10,742 - Inserted transaction cb52afdd-49c8-4590-b1cc-10cff95e0629
+2024-11-17 16:46:10,742 - Inserted transaction 6cc0261c-1432-4f54-987c-3ae8f9fdd5bb
+2024-11-17 16:46:10,742 - Inserted transaction dcf94d4c-3c9e-4f93-8a2e-f320cd3c1f86
+2024-11-17 16:46:10,743 - Inserted transaction 0fc71adc-a5b1-4729-8e69-e3b002071daf
+2024-11-17 16:46:10,743 - Inserted transaction b9be9b14-4529-4bdf-8dd6-34eba009a82d
+2024-11-17 16:46:10,743 - Inserted transaction 5251a6da-7578-4c11-afbc-4a3c2d0b1170
+2024-11-17 16:46:10,743 - Inserted transaction e0a557e1-7e8b-41b6-8e2e-aa043ef3e6d2
+2024-11-17 16:46:10,743 - Inserted transaction c8463db6-30b5-4502-8e31-693dd439a97a
+2024-11-17 16:46:10,743 - Inserted transaction 79390fe3-da59-45e3-aec7-a82448eefec9
+2024-11-17 16:46:10,743 - Inserted transaction 33180648-f10a-4960-bebf-a6a0b6e9dfcc
+2024-11-17 16:46:10,743 - Inserted transaction 8f913c99-5137-40cb-a1d9-7d8f68a32e4f
+2024-11-17 16:46:10,744 - Inserted transaction 177eb564-3e97-4d58-a472-6e25e98445e1
+2024-11-17 16:46:10,744 - Inserted transaction 420bb665-a28e-4af1-ab94-11bfcdb99b90
+2024-11-17 16:46:10,744 - Inserted transaction d1c46118-eb37-4f46-8bc0-76b8fd6c1689
+2024-11-17 16:46:10,744 - Inserted transaction f30a011a-10b7-4b83-a829-a3b81cb7fa63
+2024-11-17 16:46:10,744 - Inserted transaction eb36ef9b-0352-49de-9ea3-376e1b951c5b
+2024-11-17 16:46:10,744 - Inserted transaction 1dccba98-2dc8-4950-860f-bcbf6b8bf8a8
+2024-11-17 16:46:10,744 - Inserted transaction 621bac03-1016-4c00-aa99-a19ab6bfa5c3
+2024-11-17 16:46:10,744 - Inserted transaction 7c6d14eb-0c43-40df-8f66-23d7c3794c7f
+2024-11-17 16:46:10,744 - Inserted transaction 382b0321-24b9-40c0-811d-c1ca5ea999f0
+2024-11-17 16:46:10,744 - Inserted transaction b94db157-037d-4ec6-a155-cbd9c2bf473b
+2024-11-17 16:46:10,745 - Inserted transaction f296ee92-eaef-4c00-9a8c-bdc08f4486e1
+2024-11-17 16:46:10,745 - Inserted transaction 09be8507-937a-40f7-b13c-7bc543a7f8a1
+2024-11-17 16:46:10,745 - Inserted transaction c5766cc6-7d96-41d7-94ec-369a1f5210cf
+2024-11-17 16:46:10,745 - Inserted transaction a814c117-0c30-4918-8139-daeaf5944f2d
+2024-11-17 16:46:10,745 - Inserted transaction e2157d10-9066-4a7e-b7d2-7240ef073e7e
+2024-11-17 16:46:10,745 - Inserted transaction f075f792-7c85-4f7e-b063-85d0efcdc260
+2024-11-17 16:46:10,745 - Inserted transaction 46440f82-d91d-4dc7-8ce2-1082ddebb966
+2024-11-17 16:46:10,745 - Inserted transaction 77a52a64-35cf-4ebc-a9f2-97eec4b70e71
+2024-11-17 16:46:10,745 - Inserted transaction 7463d1ed-7563-44e1-9545-1d1c4aa05130
+2024-11-17 16:46:10,746 - Inserted transaction 07e81126-b97d-4611-a74e-3fc2a2ec8f4a
+2024-11-17 16:46:10,746 - Inserted transaction 30a1916c-fb2c-4ce3-8790-244095b3e02b
+2024-11-17 16:46:10,746 - Inserted transaction 6963e877-7c9a-46cb-ab72-b0332a1c9d71
+2024-11-17 16:46:10,746 - Inserted transaction 11c6c9ee-2152-4225-a0bf-2120ecb823b3
+2024-11-17 16:46:10,746 - Inserted transaction f1c500ea-cb8f-4087-bc96-9093da514ac8
+2024-11-17 16:46:10,746 - Inserted transaction ed3de606-fb99-4801-ba8f-d0bd2021fea5
+2024-11-17 16:46:10,746 - Inserted transaction 814b42b8-f919-4c7d-8d0a-4a1b7eda81fc
+2024-11-17 16:46:10,746 - Inserted transaction 089f1e72-5033-44f2-8465-5e897f7411b9
+2024-11-17 16:46:10,746 - Inserted transaction c2f9eaa3-c032-41f6-9eaa-45f96440e8f6
+2024-11-17 16:46:10,746 - Inserted transaction 2cc41024-65ee-497d-be6b-78af82a9e762
+2024-11-17 16:46:10,747 - Inserted transaction 348a935b-9acb-4533-b9a0-e5e81028acd5
+2024-11-17 16:46:10,747 - Inserted transaction 423daeaa-206f-46b9-ae51-c9045e3299b0
+2024-11-17 16:46:10,747 - Inserted transaction 9f8ace4b-b477-472b-9f6d-6d3d17fee204
+2024-11-17 16:46:10,747 - Inserted transaction 30c64379-3582-476b-a395-c47c3137710f
+2024-11-17 16:46:10,747 - Inserted transaction 79a5713b-acaa-42a8-8fd8-025e905e642a
+2024-11-17 16:46:10,747 - Inserted transaction 58fd0286-eb59-4d6c-b9df-b15ee3882024
+2024-11-17 16:46:10,747 - Inserted transaction 9617be6d-5bd7-4769-8353-8f3baa52671e
+2024-11-17 16:46:10,747 - Inserted transaction 1dde7817-80a2-44d0-912b-e4602cd710c5
+2024-11-17 16:46:10,747 - Inserted transaction 9ad7a6f4-7f4e-4b7e-a434-67357e86d57b
+2024-11-17 16:46:10,747 - Inserted transaction d244ac1b-e53c-4049-84fe-fbc281a05238
+2024-11-17 16:46:10,747 - Inserted transaction 4a125488-c319-4e0c-99bb-29458d4360ec
+2024-11-17 16:46:10,748 - Inserted transaction a392eb84-168d-48c5-9010-601c66391c47
+2024-11-17 16:46:10,748 - Inserted transaction 2d485c59-2331-46d4-85ee-3c132dd7ac70
+2024-11-17 16:46:10,748 - Inserted transaction 9a5497a1-41ff-4f54-bbae-30c0be9645f6
+2024-11-17 16:46:10,748 - Inserted transaction 266ee386-ea0f-43da-8b74-685333ea5d1a
+2024-11-17 16:46:10,748 - Inserted transaction 381c3d04-faf1-4ce3-9f88-bbb9ba4453a3
+2024-11-17 16:46:10,748 - Inserted transaction eb676204-bee9-4685-abab-ae0c79d7b973
+2024-11-17 16:46:10,748 - Inserted transaction 89fee73f-51dd-460c-83d3-2789390fde79
+2024-11-17 16:46:10,748 - Inserted transaction 6001a8dd-4249-499e-a3f9-0b3190d33cc6
+2024-11-17 16:46:10,748 - Inserted transaction 1610f160-ad2e-46fa-952c-f1385c92373a
+2024-11-17 16:46:10,748 - Inserted transaction ff4efa8a-27ea-492b-a780-c8861c8df3d3
+2024-11-17 16:46:10,748 - Inserted transaction 27a59580-b2f7-4433-8c72-c2c929ca0528
+2024-11-17 16:46:10,748 - Inserted transaction e40888b9-2fb0-4182-bb18-e4d24499e795
+2024-11-17 16:46:10,749 - Inserted transaction 37252b78-21a1-49d6-915d-fd78d232a11d
+2024-11-17 16:46:10,749 - Inserted transaction b9458040-3ea0-4f57-b432-404a325d0b47
+2024-11-17 16:46:10,749 - Inserted transaction e7f2c276-9b98-4767-bb99-0ba1fe680a26
+2024-11-17 16:46:10,749 - Inserted transaction a8fdee10-728b-4c94-839e-de2560eb6806
+2024-11-17 16:46:10,749 - Inserted transaction b11eb744-a607-44ad-b740-63f4baf72e83
+2024-11-17 16:46:10,749 - Inserted transaction 4ce05fe1-2352-4069-bddf-2c1bf7afd735
+2024-11-17 16:46:10,749 - Inserted transaction 06d3258a-6c86-40e0-af89-b350d6ded498
+2024-11-17 16:46:10,749 - Inserted transaction 85675448-311f-4b17-90c0-7e9260fdbae3
+2024-11-17 16:46:10,767 - Total inserted: 100, Total not inserted: 0
+2024-11-17 16:52:37,097 - Inserted transaction e7362daa-7bf9-4b59-923c-a54bd12269ac
+2024-11-17 16:52:37,099 - Inserted transaction f94fef8f-898b-41ec-844c-fd128c1e1520
+2024-11-17 16:52:37,099 - Inserted transaction 9528b3e0-83e8-4de2-8f01-7169a072a935
+2024-11-17 16:52:37,099 - Inserted transaction 9347db11-b8f3-41de-957d-613a9c3a3bbb
+2024-11-17 16:52:37,100 - Inserted transaction 0f95111a-592d-4800-8950-b918f4c2baf2
+2024-11-17 16:52:37,100 - Inserted transaction 6e17fdc9-a4e9-4b56-b43f-218ddaab3a4e
+2024-11-17 16:52:37,100 - Inserted transaction 79fb81fa-d1e6-4647-b9dd-625692e153dc
+2024-11-17 16:52:37,101 - Inserted transaction 72fe8f54-d1d5-4562-950e-676605daa276
+2024-11-17 16:52:37,101 - Inserted transaction bc8fbcd3-1847-4a59-aab7-813701a66c2f
+2024-11-17 16:52:37,101 - Inserted transaction ca88bee3-20cb-4c8d-bc2e-3ee65217d642
+2024-11-17 16:52:37,101 - Inserted transaction 9ab46189-7b86-4fe7-a9b1-f4bb7e4ea544
+2024-11-17 16:52:37,101 - Inserted transaction 43a01901-ed76-44ff-aef7-cf96a0240a95
+2024-11-17 16:52:37,102 - Inserted transaction 8d6e57c7-a616-4acc-8a12-172f954e3578
+2024-11-17 16:52:37,102 - Inserted transaction 079cdfe5-ae7c-4c7a-a12a-b3662fcb9af7
+2024-11-17 16:52:37,102 - Inserted transaction 7fa7f654-9758-48e7-ae18-1f3b0ccd9dd0
+2024-11-17 16:52:37,102 - Inserted transaction 0d803911-5dd9-4921-936e-2082349e47e4
+2024-11-17 16:52:37,102 - Inserted transaction 3e78099f-7a2e-4586-afe4-6742ed3158ee
+2024-11-17 16:52:37,102 - Inserted transaction e2b47db0-611b-4755-b06e-6ea1b061ac9d
+2024-11-17 16:52:37,102 - Inserted transaction 1764c3cc-9236-486e-96f3-f7e34196d343
+2024-11-17 16:52:37,102 - Inserted transaction 606f48c2-6d0b-4308-8055-a4f3386b7a61
+2024-11-17 16:52:37,103 - Inserted transaction 55b37326-c981-4444-ac7a-af23ec9982d3
+2024-11-17 16:52:37,103 - Inserted transaction 008ee350-0b35-407c-9e23-ce3ae8055cd5
+2024-11-17 16:52:37,103 - Inserted transaction 0da9fba6-f6ab-4f16-83a0-dbe55661135e
+2024-11-17 16:52:37,103 - Inserted transaction b8106d99-95f0-4306-98a8-e6369706632c
+2024-11-17 16:52:37,103 - Inserted transaction 00207578-427c-470c-b64c-23f963639b37
+2024-11-17 16:52:37,103 - Inserted transaction 8703328c-48ba-4d41-9e55-65da0680c498
+2024-11-17 16:52:37,103 - Inserted transaction 39186111-44c7-46b6-a627-dc063ccf395e
+2024-11-17 16:52:37,103 - Inserted transaction 7456a384-fbad-46a5-b61c-d767c835797a
+2024-11-17 16:52:37,103 - Inserted transaction 54546d69-9e2f-4fbb-9e0b-65086e7fa230
+2024-11-17 16:52:37,103 - Inserted transaction ab4d19e2-25ec-4f04-89bd-ee3e32b66491
+2024-11-17 16:52:37,104 - Inserted transaction c7f142dc-a134-4fe1-bac7-71c8912afd76
+2024-11-17 16:52:37,104 - Inserted transaction 603245ce-5b77-4982-8ba6-a313b688e6ec
+2024-11-17 16:52:37,104 - Inserted transaction 8cfff2b3-2e3d-49d3-907e-aa4add5ec63c
+2024-11-17 16:52:37,104 - Inserted transaction eca9ef65-4b7b-4508-b2be-7cee3136888f
+2024-11-17 16:52:37,104 - Inserted transaction e598a3aa-ccd6-4d3e-8853-f791cce0da06
+2024-11-17 16:52:37,104 - Inserted transaction e2d3ba39-3783-4c6c-a8fc-5060601147f3
+2024-11-17 16:52:37,104 - Inserted transaction f877fa84-1b0b-4cc9-800c-e4a511f1fef0
+2024-11-17 16:52:37,104 - Inserted transaction 202bb297-a014-4b14-8097-d6fe07dc3e60
+2024-11-17 16:52:37,104 - Inserted transaction ff6dc7f6-da3d-48a2-ac4b-9ee9784b32ea
+2024-11-17 16:52:37,104 - Inserted transaction 19749db6-b779-468c-adb4-75425fc1c423
+2024-11-17 16:52:37,105 - Inserted transaction b32432b0-3158-42ab-b343-27d0d32f5d41
+2024-11-17 16:52:37,105 - Inserted transaction d8d0924f-6e08-4eef-ae47-0db060b53818
+2024-11-17 16:52:37,105 - Inserted transaction cc1554b0-9e2a-421a-a88d-042a65889710
+2024-11-17 16:52:37,105 - Inserted transaction 2ab91894-e836-4fa2-b459-72bffe18b0f8
+2024-11-17 16:52:37,105 - Inserted transaction d51f5ea8-0b0e-4772-8860-5f7c6b80b5d3
+2024-11-17 16:52:37,105 - Inserted transaction 0a110ac2-8e52-4468-be99-33bbecdda0b6
+2024-11-17 16:52:37,105 - Inserted transaction 10592f2b-74e9-41a4-90e6-833b21661d1b
+2024-11-17 16:52:37,105 - Inserted transaction b0e7be8f-cede-479b-bbeb-59a7c9533335
+2024-11-17 16:52:37,105 - Inserted transaction c8c559bf-bbbe-42a8-993d-a3f21055d9b9
+2024-11-17 16:52:37,105 - Inserted transaction 3b5bcc41-d59d-4097-9dbb-c5b11f5affe9
+2024-11-17 16:52:37,105 - Inserted transaction 2eb0d797-5210-45a2-852c-a29d8d137a45
+2024-11-17 16:52:37,105 - Inserted transaction 0f433de9-89ce-48df-9553-3bed0c80c37d
+2024-11-17 16:52:37,106 - Inserted transaction 329ed3c3-126b-4be7-a72c-27c05616eda1
+2024-11-17 16:52:37,106 - Inserted transaction 909e1cbe-d0f4-4c89-a836-d09bc2f25cc8
+2024-11-17 16:52:37,106 - Inserted transaction 5fc5d1a0-f8bb-4830-a871-b2b5864df106
+2024-11-17 16:52:37,106 - Inserted transaction 16c99b2c-10cf-48f7-915b-bb896d4ad78e
+2024-11-17 16:52:37,106 - Inserted transaction 8032ec43-179c-465a-b0e3-f5f1bc98a23b
+2024-11-17 16:52:37,106 - Inserted transaction 57950ab7-748f-4f7a-9065-ee7fd5a909c7
+2024-11-17 16:52:37,106 - Inserted transaction 0989ef5b-786a-4bc1-a5a8-afe11d96b178
+2024-11-17 16:52:37,106 - Inserted transaction 8e97a1f3-30be-4fdf-97a5-67509dc72916
+2024-11-17 16:52:37,106 - Inserted transaction 7166130b-a1e4-44b8-8344-74d6acb85abe
+2024-11-17 16:52:37,106 - Inserted transaction bd535316-fa7f-4528-8e89-d47ecded793a
+2024-11-17 16:52:37,106 - Inserted transaction dbec5385-2b18-4969-b331-fce11438f7dc
+2024-11-17 16:52:37,107 - Inserted transaction 8acbadae-e174-42da-9fa4-4049e800de60
+2024-11-17 16:52:37,107 - Inserted transaction 80f25082-6daf-4c2a-9543-da95fd270c7e
+2024-11-17 16:52:37,107 - Inserted transaction ce5ccbfa-3df5-4a89-a526-013d64d2f924
+2024-11-17 16:52:37,107 - Inserted transaction c59add81-1bb6-408e-b94a-dc32cdbd207d
+2024-11-17 16:52:37,107 - Inserted transaction 9f121367-15dd-44b4-9a6b-300bcb4a2537
+2024-11-17 16:52:37,107 - Inserted transaction 4644e1be-ac32-4949-9f33-56a4fac2fc2c
+2024-11-17 16:52:37,107 - Inserted transaction a2526136-ea1b-454a-afd8-ccf589ce375a
+2024-11-17 16:52:37,107 - Inserted transaction fd2b5f24-14cf-4a32-8dec-06024916e62e
+2024-11-17 16:52:37,107 - Inserted transaction 7388b8a7-c312-4783-89a3-ae588ba7e068
+2024-11-17 16:52:37,107 - Inserted transaction 77b679af-5379-45ed-b48b-e7c79340fd2a
+2024-11-17 16:52:37,107 - Inserted transaction 4e39c3c7-6749-4665-9d04-8fbfde3b1ccb
+2024-11-17 16:52:37,107 - Inserted transaction 2f7a7309-fc1f-4002-9ecd-7d315b44e232
+2024-11-17 16:52:37,108 - Inserted transaction 026721dd-0bbf-4323-9321-376b0ad36b8f
+2024-11-17 16:52:37,108 - Inserted transaction d49b7f6f-e9f0-4495-ac92-29f4a114ed8e
+2024-11-17 16:52:37,108 - Inserted transaction 15c9d5f4-e055-48f0-9e23-2672276dedf9
+2024-11-17 16:52:37,108 - Inserted transaction 024af6aa-0c3a-486b-bd8f-580a916b3ff4
+2024-11-17 16:52:37,108 - Inserted transaction 9eef543d-5525-4e39-987b-1b8c2d16cd71
+2024-11-17 16:52:37,108 - Inserted transaction 5c367312-2ee5-45a8-bb52-d6e2dbbdda10
+2024-11-17 16:52:37,108 - Inserted transaction 86d51daa-57f1-420e-a17f-be580c660dd1
+2024-11-17 16:52:37,108 - Inserted transaction 8cf24f33-7ad0-4143-8d2f-15964a6f43e7
+2024-11-17 16:52:37,109 - Inserted transaction 71f637c6-ccf9-45d2-9964-a4933131b645
+2024-11-17 16:52:37,109 - Inserted transaction 4424871b-0be1-4a3a-a1c7-1abb75aef5be
+2024-11-17 16:52:37,109 - Inserted transaction f1e85864-8f0c-4e4a-98a7-1c59281b528c
+2024-11-17 16:52:37,109 - Inserted transaction 602f2336-6003-4b49-bde9-d1411b1b4a74
+2024-11-17 16:52:37,109 - Inserted transaction eb7c8633-4165-4e37-bc20-0a7e5e57ee73
+2024-11-17 16:52:37,109 - Inserted transaction 6c42cc48-3754-4950-93be-69bac2fec7aa
+2024-11-17 16:52:37,109 - Inserted transaction 5977af58-2f17-48f7-b7ad-3739a553413c
+2024-11-17 16:52:37,109 - Inserted transaction 29827886-b61d-434c-bc1c-a2034409fe2f
+2024-11-17 16:52:37,109 - Inserted transaction f77a723b-99a7-4979-aa97-04deec163ca8
+2024-11-17 16:52:37,110 - Inserted transaction c889bccd-d760-4863-b1cb-e93ecfcb3f5c
+2024-11-17 16:52:37,110 - Inserted transaction e89ecc2f-a209-409c-b18f-094d128d2707
+2024-11-17 16:52:37,110 - Inserted transaction 09165670-2ab1-4cbb-b66c-918f55fb884e
+2024-11-17 16:52:37,110 - Inserted transaction 97c19fa7-ac62-4e4b-8cf1-dcbb3fbf7923
+2024-11-17 16:52:37,110 - Inserted transaction cfb09a58-1fc7-4c9f-b224-2cc50d0420ea
+2024-11-17 16:52:37,110 - Inserted transaction 073fa1cf-a199-47d6-847c-cee717af24b5
+2024-11-17 16:52:37,110 - Inserted transaction 5720fba6-864e-4d0a-ab02-6a6d4ee9726b
+2024-11-17 16:52:37,110 - Inserted transaction 440b42d5-e752-43be-84ac-d3057f680e02
+2024-11-17 16:52:37,129 - Total inserted: 100, Total not inserted: 0
+2024-11-17 20:14:55,032 - Inserted transaction 2305762c-36cc-4715-a5fc-29026fea13e5
+2024-11-17 20:14:55,034 - Inserted transaction d3e42462-c460-4491-b475-44464951c71b
+2024-11-17 20:14:55,035 - Inserted transaction c972fc6f-d3da-4c59-8d66-b8d5acf6a167
+2024-11-17 20:14:55,035 - Inserted transaction 758c0c51-a25d-46a3-b6b7-6193cc8aeb54
+2024-11-17 20:14:55,036 - Inserted transaction 1befee01-1983-4caf-80e6-74fec6e40242
+2024-11-17 20:14:55,037 - Inserted transaction 41d282e6-680c-403a-8422-0e4186d846fc
+2024-11-17 20:14:55,037 - Inserted transaction 8315252f-7d34-485c-96ba-929a49e68f82
+2024-11-17 20:14:55,037 - Inserted transaction 15dfb6b9-d44b-4efd-a8d4-af2dcea913c7
+2024-11-17 20:14:55,038 - Inserted transaction 88dc54a3-ac81-46cc-9476-9f3b94e435b8
+2024-11-17 20:14:55,038 - Inserted transaction 28bd832e-a2ee-4d78-b6a9-c391efe24d6e
+2024-11-17 20:14:55,038 - Inserted transaction 81330faf-9714-4666-a436-37367a5f0a08
+2024-11-17 20:14:55,039 - Inserted transaction 4ef30cab-eadd-48c9-9a63-8f7e7603f603
+2024-11-17 20:14:55,039 - Inserted transaction a46716de-31d3-42c5-b820-df0afe442aac
+2024-11-17 20:14:55,039 - Inserted transaction 426b6624-40da-48ac-b2d9-e1f854f98aa8
+2024-11-17 20:14:55,039 - Inserted transaction 5821ac8e-4dd8-4208-bdf0-4e974c7f4e9b
+2024-11-17 20:14:55,039 - Inserted transaction 50e70176-02b4-40b1-9625-2e8bc68077bb
+2024-11-17 20:14:55,039 - Inserted transaction 5da93f9a-a07e-4082-bde9-455f0cc368d6
+2024-11-17 20:14:55,040 - Inserted transaction ae05f75f-6709-4a3c-8e46-ebbea5baceaa
+2024-11-17 20:14:55,040 - Inserted transaction 647aa750-d096-4e00-9dc1-48b2d60ab341
+2024-11-17 20:14:55,040 - Inserted transaction dda3e452-3231-41dc-a844-2f2dbd6dd12e
+2024-11-17 20:14:55,040 - Inserted transaction 22dc9757-5995-41f3-979d-66078c670df7
+2024-11-17 20:14:55,040 - Inserted transaction 469a79ce-c515-4a01-b1cb-8afb797ebe88
+2024-11-17 20:14:55,041 - Inserted transaction 5a37c958-ef0d-4390-9a50-748cecfaf1e1
+2024-11-17 20:14:55,041 - Inserted transaction 01c59a15-1e47-47bf-9ba5-0352504942ed
+2024-11-17 20:14:55,041 - Inserted transaction 05769053-383d-4bf5-a25b-29663d1805a4
+2024-11-17 20:14:55,041 - Inserted transaction 699de945-f7de-4e42-a9a2-74d1fc6cd431
+2024-11-17 20:14:55,041 - Inserted transaction 64cb523b-e3b6-4010-9f5c-c57798c86ece
+2024-11-17 20:14:55,041 - Inserted transaction 5c48f3b3-3cd9-4f5b-90bb-42b4034e259f
+2024-11-17 20:14:55,041 - Inserted transaction e78fafe9-ae79-4766-8863-486e4cda808f
+2024-11-17 20:14:55,042 - Inserted transaction a49d44b4-81a5-4b0d-938c-8f6aa9755ab7
+2024-11-17 20:14:55,042 - Inserted transaction 93be9213-9480-4cbf-8b2d-7ab8936dd86a
+2024-11-17 20:14:55,042 - Inserted transaction b078ed8d-6327-4966-9dca-7b2152810284
+2024-11-17 20:14:55,042 - Inserted transaction 341fac1c-385d-489a-8c04-4b7a84b4267b
+2024-11-17 20:14:55,042 - Inserted transaction d8f26f9e-de7e-4b67-ac07-50b9ecdc16ea
+2024-11-17 20:14:55,042 - Inserted transaction efc80e80-e031-40a6-8900-0a5237174285
+2024-11-17 20:14:55,043 - Inserted transaction f1e500aa-235b-4395-8f54-a06905f2899f
+2024-11-17 20:14:55,043 - Inserted transaction d76887e5-8497-42ba-8a30-1f2b8e9778e9
+2024-11-17 20:14:55,043 - Inserted transaction 3c9f23b5-f05a-4d4c-b67c-092f9bd24ff2
+2024-11-17 20:14:55,043 - Inserted transaction 43c5e0ce-fbb3-4dd8-8cb5-9f921f833ee5
+2024-11-17 20:14:55,043 - Inserted transaction 1ae3e881-8f06-4541-b327-0044f2bede24
+2024-11-17 20:14:55,044 - Inserted transaction 081e30b0-ea20-4f11-a0e8-5dbf15084518
+2024-11-17 20:14:55,044 - Inserted transaction 2840084a-3c93-48f9-96bc-2e667b06e342
+2024-11-17 20:14:55,044 - Inserted transaction 7b4dda1e-7218-48c7-9d22-da4d89377fd9
+2024-11-17 20:14:55,044 - Inserted transaction a2937fb7-8534-4f4e-837f-b61cd30db968
+2024-11-17 20:14:55,044 - Inserted transaction 2b17f514-72e6-4549-a420-3b26f0ed18d9
+2024-11-17 20:14:55,044 - Inserted transaction 37ef76ed-a669-4ec0-8861-179a96c2d96b
+2024-11-17 20:14:55,044 - Inserted transaction 5b3c5ca3-850b-4912-87b0-619d1db7791e
+2024-11-17 20:14:55,045 - Inserted transaction 66b91ba8-15ec-4265-9c37-249009c27aa0
+2024-11-17 20:14:55,045 - Inserted transaction 4e35bb22-8061-4adf-8576-86e46b397bbc
+2024-11-17 20:14:55,045 - Inserted transaction 05e4e761-b718-4568-bc33-0403b36aeec0
+2024-11-17 20:14:55,045 - Inserted transaction 1b25a1e6-7bdb-46c0-b175-7cc5fa81163b
+2024-11-17 20:14:55,046 - Inserted transaction 39173227-0e98-400b-8d92-097a9923059a
+2024-11-17 20:14:55,046 - Inserted transaction cc9d2c66-d6ff-4826-96fc-5c1b68c4fb2c
+2024-11-17 20:14:55,046 - Inserted transaction 1d6be40a-4276-4524-a357-f4ef7a495ecd
+2024-11-17 20:14:55,046 - Inserted transaction 6f74a8c3-1118-4aa7-9423-60de35f8cdff
+2024-11-17 20:14:55,047 - Inserted transaction 83b5747f-f6e0-4a21-97f2-f1cb185cdb67
+2024-11-17 20:14:55,047 - Inserted transaction de9e4f19-4f11-41fb-949c-dbb1b177e936
+2024-11-17 20:14:55,047 - Inserted transaction 3d9d652d-1dc5-4ed4-8133-477604cb7bbd
+2024-11-17 20:14:55,047 - Inserted transaction 2809cf00-b5b0-4c7e-8cfb-0fbe1a8228c8
+2024-11-17 20:14:55,047 - Inserted transaction 3d1f4f71-7cb7-4650-904a-db7da92c4baa
+2024-11-17 20:14:55,047 - Inserted transaction 339adeee-26ed-407f-a026-3907dc35b625
+2024-11-17 20:14:55,047 - Inserted transaction ddcf0268-68bf-4f22-b452-7f89bd3c79cb
+2024-11-17 20:14:55,047 - Inserted transaction 26bda3f9-c6f7-46da-8e36-4efb815f0956
+2024-11-17 20:14:55,048 - Inserted transaction fd3b85d4-c915-4466-9dfb-536985c0b558
+2024-11-17 20:14:55,048 - Inserted transaction f4be10a0-cf80-4c65-82a4-c7ac9df3f632
+2024-11-17 20:14:55,048 - Inserted transaction d973be63-5271-4285-84a0-710bb5ade920
+2024-11-17 20:14:55,048 - Inserted transaction 4c788e9d-aa39-435e-b36a-5add79f34b84
+2024-11-17 20:14:55,049 - Inserted transaction 507ca0e6-9b4d-4949-9b1b-18c4b6b0e1d0
+2024-11-17 20:14:55,049 - Inserted transaction b8652622-0790-4b8a-a8bc-7556afe0eaf7
+2024-11-17 20:14:55,049 - Inserted transaction 59ffbb09-df39-4e3a-b49b-a0b2cf4ac7f0
+2024-11-17 20:14:55,049 - Inserted transaction ecd2aa18-1c13-4a6e-b115-a5de64fb43d4
+2024-11-17 20:14:55,049 - Inserted transaction 1cc5aead-8950-4e3e-9c06-e51a589a74dc
+2024-11-17 20:14:55,049 - Inserted transaction b7798d76-e034-443f-9361-825ec2afc617
+2024-11-17 20:14:55,049 - Inserted transaction 757228e6-1753-4909-ae67-7f49dc1a2303
+2024-11-17 20:14:55,050 - Inserted transaction 823f2004-5d75-4f6a-9387-1cb5cd2104dc
+2024-11-17 20:14:55,050 - Inserted transaction 55de5c7f-19b7-4178-9937-01f9f62226e1
+2024-11-17 20:14:55,050 - Inserted transaction 47a11e1c-fef9-409d-8a64-bcdcb1b51541
+2024-11-17 20:14:55,050 - Inserted transaction bdf37d21-fb1d-4bfd-a4c4-d7ba0b0ea816
+2024-11-17 20:14:55,050 - Inserted transaction 20eb14df-1f14-4415-ac99-7d87dd948f3f
+2024-11-17 20:14:55,050 - Inserted transaction d1a901c9-682d-4754-8df3-02d35ca2809f
+2024-11-17 20:14:55,050 - Inserted transaction 6077a6cc-c7bf-4f14-8c43-c26b021dbb07
+2024-11-17 20:14:55,051 - Inserted transaction 2315c61f-4a10-4f16-996d-b6a9ef2c1bea
+2024-11-17 20:14:55,051 - Inserted transaction 08cfb12c-1252-4c62-9d29-90f309d8462b
+2024-11-17 20:14:55,051 - Inserted transaction 43dfdb0a-398a-43df-8cc9-d22db3a78356
+2024-11-17 20:14:55,051 - Inserted transaction 5a081424-c1cb-43c0-a02e-ce7f80afe171
+2024-11-17 20:14:55,051 - Inserted transaction 27c503f6-063b-48f1-a8f6-86b20e026832
+2024-11-17 20:14:55,051 - Inserted transaction 8585bce3-a2cf-4307-b5b2-13b707c52bef
+2024-11-17 20:14:55,052 - Inserted transaction 1f2a34ee-c2d7-44fa-8c0a-6b085164f918
+2024-11-17 20:14:55,052 - Inserted transaction 9c8be5ea-19cc-49f6-9cc9-9c29cf75b666
+2024-11-17 20:14:55,052 - Inserted transaction 71ea8b25-2d89-4289-828c-5e33ff0f4f2c
+2024-11-17 20:14:55,052 - Inserted transaction 5b193c37-3483-43ea-90a2-c65aba459b6b
+2024-11-17 20:14:55,052 - Inserted transaction f61eaefc-6098-48a1-9926-861c551ea39e
+2024-11-17 20:14:55,052 - Inserted transaction dbe0668e-3007-4b0d-9304-ad2bdeed786e
+2024-11-17 20:14:55,052 - Inserted transaction 65e4c1a4-8ddd-42e5-a702-0f86d31678ba
+2024-11-17 20:14:55,052 - Inserted transaction d6300042-8201-4871-a252-d3bdfa915fcc
+2024-11-17 20:14:55,052 - Inserted transaction ff211ed9-a380-488e-a66c-246731a0a32c
+2024-11-17 20:14:55,052 - Inserted transaction d45e016e-764d-4547-98c4-0dfbfba74c27
+2024-11-17 20:14:55,053 - Inserted transaction b5a392f5-4028-4f50-a374-5f7fd4aff542
+2024-11-17 20:14:55,053 - Inserted transaction ff5865dc-61f8-41e5-8235-c45b0a29033b
+2024-11-17 20:14:55,053 - Inserted transaction 18940a5d-561f-4225-8b32-381975f5be6e
+2024-11-17 20:14:55,089 - Total inserted: 100, Total not inserted: 0
+2024-11-17 20:15:20,915 - Transaction 2305762c-36cc-4715-a5fc-29026fea13e5 already exists, not inserted.
+2024-11-17 20:15:20,916 - Transaction d3e42462-c460-4491-b475-44464951c71b already exists, not inserted.
+2024-11-17 20:15:20,916 - Transaction c972fc6f-d3da-4c59-8d66-b8d5acf6a167 already exists, not inserted.
+2024-11-17 20:15:20,916 - Transaction 758c0c51-a25d-46a3-b6b7-6193cc8aeb54 already exists, not inserted.
+2024-11-17 20:15:20,916 - Transaction 1befee01-1983-4caf-80e6-74fec6e40242 already exists, not inserted.
+2024-11-17 20:15:20,917 - Transaction 41d282e6-680c-403a-8422-0e4186d846fc already exists, not inserted.
+2024-11-17 20:15:20,917 - Transaction 8315252f-7d34-485c-96ba-929a49e68f82 already exists, not inserted.
+2024-11-17 20:15:20,917 - Transaction 15dfb6b9-d44b-4efd-a8d4-af2dcea913c7 already exists, not inserted.
+2024-11-17 20:15:20,918 - Transaction 88dc54a3-ac81-46cc-9476-9f3b94e435b8 already exists, not inserted.
+2024-11-17 20:15:20,918 - Transaction 28bd832e-a2ee-4d78-b6a9-c391efe24d6e already exists, not inserted.
+2024-11-17 20:15:20,918 - Transaction 81330faf-9714-4666-a436-37367a5f0a08 already exists, not inserted.
+2024-11-17 20:15:20,918 - Transaction 4ef30cab-eadd-48c9-9a63-8f7e7603f603 already exists, not inserted.
+2024-11-17 20:15:20,919 - Transaction a46716de-31d3-42c5-b820-df0afe442aac already exists, not inserted.
+2024-11-17 20:15:20,919 - Transaction 426b6624-40da-48ac-b2d9-e1f854f98aa8 already exists, not inserted.
+2024-11-17 20:15:20,919 - Transaction 5821ac8e-4dd8-4208-bdf0-4e974c7f4e9b already exists, not inserted.
+2024-11-17 20:15:20,919 - Transaction 50e70176-02b4-40b1-9625-2e8bc68077bb already exists, not inserted.
+2024-11-17 20:15:20,920 - Transaction 5da93f9a-a07e-4082-bde9-455f0cc368d6 already exists, not inserted.
+2024-11-17 20:15:20,920 - Transaction ae05f75f-6709-4a3c-8e46-ebbea5baceaa already exists, not inserted.
+2024-11-17 20:15:20,920 - Transaction 647aa750-d096-4e00-9dc1-48b2d60ab341 already exists, not inserted.
+2024-11-17 20:15:20,920 - Transaction dda3e452-3231-41dc-a844-2f2dbd6dd12e already exists, not inserted.
+2024-11-17 20:15:20,921 - Transaction 22dc9757-5995-41f3-979d-66078c670df7 already exists, not inserted.
+2024-11-17 20:15:20,921 - Transaction 469a79ce-c515-4a01-b1cb-8afb797ebe88 already exists, not inserted.
+2024-11-17 20:15:20,921 - Transaction 5a37c958-ef0d-4390-9a50-748cecfaf1e1 already exists, not inserted.
+2024-11-17 20:15:20,921 - Transaction 01c59a15-1e47-47bf-9ba5-0352504942ed already exists, not inserted.
+2024-11-17 20:15:20,921 - Transaction 05769053-383d-4bf5-a25b-29663d1805a4 already exists, not inserted.
+2024-11-17 20:15:20,922 - Transaction 699de945-f7de-4e42-a9a2-74d1fc6cd431 already exists, not inserted.
+2024-11-17 20:15:20,922 - Transaction 64cb523b-e3b6-4010-9f5c-c57798c86ece already exists, not inserted.
+2024-11-17 20:15:20,922 - Transaction 5c48f3b3-3cd9-4f5b-90bb-42b4034e259f already exists, not inserted.
+2024-11-17 20:15:20,922 - Transaction e78fafe9-ae79-4766-8863-486e4cda808f already exists, not inserted.
+2024-11-17 20:15:20,923 - Transaction a49d44b4-81a5-4b0d-938c-8f6aa9755ab7 already exists, not inserted.
+2024-11-17 20:15:20,923 - Transaction 93be9213-9480-4cbf-8b2d-7ab8936dd86a already exists, not inserted.
+2024-11-17 20:15:20,923 - Transaction b078ed8d-6327-4966-9dca-7b2152810284 already exists, not inserted.
+2024-11-17 20:15:20,923 - Transaction 341fac1c-385d-489a-8c04-4b7a84b4267b already exists, not inserted.
+2024-11-17 20:15:20,924 - Transaction d8f26f9e-de7e-4b67-ac07-50b9ecdc16ea already exists, not inserted.
+2024-11-17 20:15:20,924 - Transaction efc80e80-e031-40a6-8900-0a5237174285 already exists, not inserted.
+2024-11-17 20:15:20,924 - Transaction f1e500aa-235b-4395-8f54-a06905f2899f already exists, not inserted.
+2024-11-17 20:15:20,924 - Transaction d76887e5-8497-42ba-8a30-1f2b8e9778e9 already exists, not inserted.
+2024-11-17 20:15:20,925 - Transaction 3c9f23b5-f05a-4d4c-b67c-092f9bd24ff2 already exists, not inserted.
+2024-11-17 20:15:20,925 - Transaction 43c5e0ce-fbb3-4dd8-8cb5-9f921f833ee5 already exists, not inserted.
+2024-11-17 20:15:20,925 - Transaction 1ae3e881-8f06-4541-b327-0044f2bede24 already exists, not inserted.
+2024-11-17 20:15:20,925 - Transaction 081e30b0-ea20-4f11-a0e8-5dbf15084518 already exists, not inserted.
+2024-11-17 20:15:20,925 - Transaction 2840084a-3c93-48f9-96bc-2e667b06e342 already exists, not inserted.
+2024-11-17 20:15:20,926 - Transaction 7b4dda1e-7218-48c7-9d22-da4d89377fd9 already exists, not inserted.
+2024-11-17 20:15:20,926 - Transaction a2937fb7-8534-4f4e-837f-b61cd30db968 already exists, not inserted.
+2024-11-17 20:15:20,926 - Transaction 2b17f514-72e6-4549-a420-3b26f0ed18d9 already exists, not inserted.
+2024-11-17 20:15:20,926 - Transaction 37ef76ed-a669-4ec0-8861-179a96c2d96b already exists, not inserted.
+2024-11-17 20:15:20,926 - Transaction 5b3c5ca3-850b-4912-87b0-619d1db7791e already exists, not inserted.
+2024-11-17 20:15:20,926 - Transaction 66b91ba8-15ec-4265-9c37-249009c27aa0 already exists, not inserted.
+2024-11-17 20:15:20,926 - Transaction 4e35bb22-8061-4adf-8576-86e46b397bbc already exists, not inserted.
+2024-11-17 20:15:20,926 - Transaction 05e4e761-b718-4568-bc33-0403b36aeec0 already exists, not inserted.
+2024-11-17 20:15:20,927 - Transaction 1b25a1e6-7bdb-46c0-b175-7cc5fa81163b already exists, not inserted.
+2024-11-17 20:15:20,927 - Transaction 39173227-0e98-400b-8d92-097a9923059a already exists, not inserted.
+2024-11-17 20:15:20,927 - Transaction cc9d2c66-d6ff-4826-96fc-5c1b68c4fb2c already exists, not inserted.
+2024-11-17 20:15:20,927 - Transaction 1d6be40a-4276-4524-a357-f4ef7a495ecd already exists, not inserted.
+2024-11-17 20:15:20,927 - Transaction 6f74a8c3-1118-4aa7-9423-60de35f8cdff already exists, not inserted.
+2024-11-17 20:15:20,927 - Transaction 83b5747f-f6e0-4a21-97f2-f1cb185cdb67 already exists, not inserted.
+2024-11-17 20:15:20,927 - Transaction de9e4f19-4f11-41fb-949c-dbb1b177e936 already exists, not inserted.
+2024-11-17 20:15:20,927 - Transaction 3d9d652d-1dc5-4ed4-8133-477604cb7bbd already exists, not inserted.
+2024-11-17 20:15:20,928 - Transaction 2809cf00-b5b0-4c7e-8cfb-0fbe1a8228c8 already exists, not inserted.
+2024-11-17 20:15:20,928 - Transaction 3d1f4f71-7cb7-4650-904a-db7da92c4baa already exists, not inserted.
+2024-11-17 20:15:20,928 - Transaction 339adeee-26ed-407f-a026-3907dc35b625 already exists, not inserted.
+2024-11-17 20:15:20,928 - Transaction ddcf0268-68bf-4f22-b452-7f89bd3c79cb already exists, not inserted.
+2024-11-17 20:15:20,928 - Transaction 26bda3f9-c6f7-46da-8e36-4efb815f0956 already exists, not inserted.
+2024-11-17 20:15:20,928 - Transaction fd3b85d4-c915-4466-9dfb-536985c0b558 already exists, not inserted.
+2024-11-17 20:15:20,928 - Transaction f4be10a0-cf80-4c65-82a4-c7ac9df3f632 already exists, not inserted.
+2024-11-17 20:15:20,928 - Transaction d973be63-5271-4285-84a0-710bb5ade920 already exists, not inserted.
+2024-11-17 20:15:20,928 - Transaction 4c788e9d-aa39-435e-b36a-5add79f34b84 already exists, not inserted.
+2024-11-17 20:15:20,929 - Transaction 507ca0e6-9b4d-4949-9b1b-18c4b6b0e1d0 already exists, not inserted.
+2024-11-17 20:15:20,929 - Transaction b8652622-0790-4b8a-a8bc-7556afe0eaf7 already exists, not inserted.
+2024-11-17 20:15:20,929 - Transaction 59ffbb09-df39-4e3a-b49b-a0b2cf4ac7f0 already exists, not inserted.
+2024-11-17 20:15:20,929 - Transaction ecd2aa18-1c13-4a6e-b115-a5de64fb43d4 already exists, not inserted.
+2024-11-17 20:15:20,929 - Transaction 1cc5aead-8950-4e3e-9c06-e51a589a74dc already exists, not inserted.
+2024-11-17 20:15:20,930 - Transaction b7798d76-e034-443f-9361-825ec2afc617 already exists, not inserted.
+2024-11-17 20:15:20,930 - Transaction 757228e6-1753-4909-ae67-7f49dc1a2303 already exists, not inserted.
+2024-11-17 20:15:20,930 - Transaction 823f2004-5d75-4f6a-9387-1cb5cd2104dc already exists, not inserted.
+2024-11-17 20:15:20,930 - Transaction 55de5c7f-19b7-4178-9937-01f9f62226e1 already exists, not inserted.
+2024-11-17 20:15:20,930 - Transaction 47a11e1c-fef9-409d-8a64-bcdcb1b51541 already exists, not inserted.
+2024-11-17 20:15:20,930 - Transaction bdf37d21-fb1d-4bfd-a4c4-d7ba0b0ea816 already exists, not inserted.
+2024-11-17 20:15:20,930 - Transaction 20eb14df-1f14-4415-ac99-7d87dd948f3f already exists, not inserted.
+2024-11-17 20:15:20,930 - Transaction d1a901c9-682d-4754-8df3-02d35ca2809f already exists, not inserted.
+2024-11-17 20:15:20,931 - Transaction 6077a6cc-c7bf-4f14-8c43-c26b021dbb07 already exists, not inserted.
+2024-11-17 20:15:20,931 - Transaction 2315c61f-4a10-4f16-996d-b6a9ef2c1bea already exists, not inserted.
+2024-11-17 20:15:20,931 - Transaction 08cfb12c-1252-4c62-9d29-90f309d8462b already exists, not inserted.
+2024-11-17 20:15:20,931 - Transaction 43dfdb0a-398a-43df-8cc9-d22db3a78356 already exists, not inserted.
+2024-11-17 20:15:20,931 - Transaction 5a081424-c1cb-43c0-a02e-ce7f80afe171 already exists, not inserted.
+2024-11-17 20:15:20,931 - Transaction 27c503f6-063b-48f1-a8f6-86b20e026832 already exists, not inserted.
+2024-11-17 20:15:20,931 - Transaction 8585bce3-a2cf-4307-b5b2-13b707c52bef already exists, not inserted.
+2024-11-17 20:15:20,931 - Transaction 1f2a34ee-c2d7-44fa-8c0a-6b085164f918 already exists, not inserted.
+2024-11-17 20:15:20,932 - Transaction 9c8be5ea-19cc-49f6-9cc9-9c29cf75b666 already exists, not inserted.
+2024-11-17 20:15:20,932 - Transaction 71ea8b25-2d89-4289-828c-5e33ff0f4f2c already exists, not inserted.
+2024-11-17 20:15:20,932 - Transaction 5b193c37-3483-43ea-90a2-c65aba459b6b already exists, not inserted.
+2024-11-17 20:15:20,932 - Transaction f61eaefc-6098-48a1-9926-861c551ea39e already exists, not inserted.
+2024-11-17 20:15:20,932 - Transaction dbe0668e-3007-4b0d-9304-ad2bdeed786e already exists, not inserted.
+2024-11-17 20:15:20,932 - Transaction 65e4c1a4-8ddd-42e5-a702-0f86d31678ba already exists, not inserted.
+2024-11-17 20:15:20,932 - Transaction d6300042-8201-4871-a252-d3bdfa915fcc already exists, not inserted.
+2024-11-17 20:15:20,932 - Transaction ff211ed9-a380-488e-a66c-246731a0a32c already exists, not inserted.
+2024-11-17 20:15:20,933 - Transaction d45e016e-764d-4547-98c4-0dfbfba74c27 already exists, not inserted.
+2024-11-17 20:15:20,933 - Transaction b5a392f5-4028-4f50-a374-5f7fd4aff542 already exists, not inserted.
+2024-11-17 20:15:20,933 - Transaction ff5865dc-61f8-41e5-8235-c45b0a29033b already exists, not inserted.
+2024-11-17 20:15:20,933 - Transaction 18940a5d-561f-4225-8b32-381975f5be6e already exists, not inserted.
+2024-11-17 20:15:20,933 - Total inserted: 0, Total not inserted: 100
+2024-11-17 20:15:31,235 - Transaction 2305762c-36cc-4715-a5fc-29026fea13e5 already exists, not inserted.
+2024-11-17 20:15:31,236 - Transaction d3e42462-c460-4491-b475-44464951c71b already exists, not inserted.
+2024-11-17 20:15:31,236 - Transaction c972fc6f-d3da-4c59-8d66-b8d5acf6a167 already exists, not inserted.
+2024-11-17 20:15:31,237 - Transaction 758c0c51-a25d-46a3-b6b7-6193cc8aeb54 already exists, not inserted.
+2024-11-17 20:15:31,237 - Transaction 1befee01-1983-4caf-80e6-74fec6e40242 already exists, not inserted.
+2024-11-17 20:15:31,237 - Transaction 41d282e6-680c-403a-8422-0e4186d846fc already exists, not inserted.
+2024-11-17 20:15:31,237 - Transaction 8315252f-7d34-485c-96ba-929a49e68f82 already exists, not inserted.
+2024-11-17 20:15:31,238 - Transaction 15dfb6b9-d44b-4efd-a8d4-af2dcea913c7 already exists, not inserted.
+2024-11-17 20:15:31,238 - Transaction 88dc54a3-ac81-46cc-9476-9f3b94e435b8 already exists, not inserted.
+2024-11-17 20:15:31,238 - Transaction 28bd832e-a2ee-4d78-b6a9-c391efe24d6e already exists, not inserted.
+2024-11-17 20:15:31,239 - Transaction 81330faf-9714-4666-a436-37367a5f0a08 already exists, not inserted.
+2024-11-17 20:15:31,239 - Transaction 4ef30cab-eadd-48c9-9a63-8f7e7603f603 already exists, not inserted.
+2024-11-17 20:15:31,239 - Transaction a46716de-31d3-42c5-b820-df0afe442aac already exists, not inserted.
+2024-11-17 20:15:31,239 - Transaction 426b6624-40da-48ac-b2d9-e1f854f98aa8 already exists, not inserted.
+2024-11-17 20:15:31,240 - Transaction 5821ac8e-4dd8-4208-bdf0-4e974c7f4e9b already exists, not inserted.
+2024-11-17 20:15:31,240 - Transaction 50e70176-02b4-40b1-9625-2e8bc68077bb already exists, not inserted.
+2024-11-17 20:15:31,240 - Transaction 5da93f9a-a07e-4082-bde9-455f0cc368d6 already exists, not inserted.
+2024-11-17 20:15:31,241 - Transaction ae05f75f-6709-4a3c-8e46-ebbea5baceaa already exists, not inserted.
+2024-11-17 20:15:31,241 - Transaction 647aa750-d096-4e00-9dc1-48b2d60ab341 already exists, not inserted.
+2024-11-17 20:15:31,241 - Transaction dda3e452-3231-41dc-a844-2f2dbd6dd12e already exists, not inserted.
+2024-11-17 20:15:31,241 - Transaction 22dc9757-5995-41f3-979d-66078c670df7 already exists, not inserted.
+2024-11-17 20:15:31,241 - Transaction 469a79ce-c515-4a01-b1cb-8afb797ebe88 already exists, not inserted.
+2024-11-17 20:15:31,241 - Transaction 5a37c958-ef0d-4390-9a50-748cecfaf1e1 already exists, not inserted.
+2024-11-17 20:15:31,241 - Transaction 01c59a15-1e47-47bf-9ba5-0352504942ed already exists, not inserted.
+2024-11-17 20:15:31,241 - Transaction 05769053-383d-4bf5-a25b-29663d1805a4 already exists, not inserted.
+2024-11-17 20:15:31,242 - Transaction 699de945-f7de-4e42-a9a2-74d1fc6cd431 already exists, not inserted.
+2024-11-17 20:15:31,242 - Transaction 64cb523b-e3b6-4010-9f5c-c57798c86ece already exists, not inserted.
+2024-11-17 20:15:31,242 - Transaction 5c48f3b3-3cd9-4f5b-90bb-42b4034e259f already exists, not inserted.
+2024-11-17 20:15:31,242 - Transaction e78fafe9-ae79-4766-8863-486e4cda808f already exists, not inserted.
+2024-11-17 20:15:31,242 - Transaction a49d44b4-81a5-4b0d-938c-8f6aa9755ab7 already exists, not inserted.
+2024-11-17 20:15:31,242 - Transaction 93be9213-9480-4cbf-8b2d-7ab8936dd86a already exists, not inserted.
+2024-11-17 20:15:31,242 - Transaction b078ed8d-6327-4966-9dca-7b2152810284 already exists, not inserted.
+2024-11-17 20:15:31,242 - Transaction 341fac1c-385d-489a-8c04-4b7a84b4267b already exists, not inserted.
+2024-11-17 20:15:31,243 - Transaction d8f26f9e-de7e-4b67-ac07-50b9ecdc16ea already exists, not inserted.
+2024-11-17 20:15:31,243 - Transaction efc80e80-e031-40a6-8900-0a5237174285 already exists, not inserted.
+2024-11-17 20:15:31,243 - Transaction f1e500aa-235b-4395-8f54-a06905f2899f already exists, not inserted.
+2024-11-17 20:15:31,243 - Transaction d76887e5-8497-42ba-8a30-1f2b8e9778e9 already exists, not inserted.
+2024-11-17 20:15:31,243 - Transaction 3c9f23b5-f05a-4d4c-b67c-092f9bd24ff2 already exists, not inserted.
+2024-11-17 20:15:31,243 - Transaction 43c5e0ce-fbb3-4dd8-8cb5-9f921f833ee5 already exists, not inserted.
+2024-11-17 20:15:31,243 - Transaction 1ae3e881-8f06-4541-b327-0044f2bede24 already exists, not inserted.
+2024-11-17 20:15:31,244 - Transaction 081e30b0-ea20-4f11-a0e8-5dbf15084518 already exists, not inserted.
+2024-11-17 20:15:31,244 - Transaction 2840084a-3c93-48f9-96bc-2e667b06e342 already exists, not inserted.
+2024-11-17 20:15:31,244 - Transaction 7b4dda1e-7218-48c7-9d22-da4d89377fd9 already exists, not inserted.
+2024-11-17 20:15:31,244 - Transaction a2937fb7-8534-4f4e-837f-b61cd30db968 already exists, not inserted.
+2024-11-17 20:15:31,244 - Transaction 2b17f514-72e6-4549-a420-3b26f0ed18d9 already exists, not inserted.
+2024-11-17 20:15:31,244 - Transaction 37ef76ed-a669-4ec0-8861-179a96c2d96b already exists, not inserted.
+2024-11-17 20:15:31,244 - Transaction 5b3c5ca3-850b-4912-87b0-619d1db7791e already exists, not inserted.
+2024-11-17 20:15:31,244 - Transaction 66b91ba8-15ec-4265-9c37-249009c27aa0 already exists, not inserted.
+2024-11-17 20:15:31,245 - Transaction 4e35bb22-8061-4adf-8576-86e46b397bbc already exists, not inserted.
+2024-11-17 20:15:31,245 - Transaction 05e4e761-b718-4568-bc33-0403b36aeec0 already exists, not inserted.
+2024-11-17 20:15:31,245 - Transaction 1b25a1e6-7bdb-46c0-b175-7cc5fa81163b already exists, not inserted.
+2024-11-17 20:15:31,245 - Transaction 39173227-0e98-400b-8d92-097a9923059a already exists, not inserted.
+2024-11-17 20:15:31,245 - Transaction cc9d2c66-d6ff-4826-96fc-5c1b68c4fb2c already exists, not inserted.
+2024-11-17 20:15:31,245 - Transaction 1d6be40a-4276-4524-a357-f4ef7a495ecd already exists, not inserted.
+2024-11-17 20:15:31,245 - Transaction 6f74a8c3-1118-4aa7-9423-60de35f8cdff already exists, not inserted.
+2024-11-17 20:15:31,246 - Transaction 83b5747f-f6e0-4a21-97f2-f1cb185cdb67 already exists, not inserted.
+2024-11-17 20:15:31,246 - Transaction de9e4f19-4f11-41fb-949c-dbb1b177e936 already exists, not inserted.
+2024-11-17 20:15:31,246 - Transaction 3d9d652d-1dc5-4ed4-8133-477604cb7bbd already exists, not inserted.
+2024-11-17 20:15:31,246 - Transaction 2809cf00-b5b0-4c7e-8cfb-0fbe1a8228c8 already exists, not inserted.
+2024-11-17 20:15:31,246 - Transaction 3d1f4f71-7cb7-4650-904a-db7da92c4baa already exists, not inserted.
+2024-11-17 20:15:31,246 - Transaction 339adeee-26ed-407f-a026-3907dc35b625 already exists, not inserted.
+2024-11-17 20:15:31,246 - Transaction ddcf0268-68bf-4f22-b452-7f89bd3c79cb already exists, not inserted.
+2024-11-17 20:15:31,246 - Transaction 26bda3f9-c6f7-46da-8e36-4efb815f0956 already exists, not inserted.
+2024-11-17 20:15:31,247 - Transaction fd3b85d4-c915-4466-9dfb-536985c0b558 already exists, not inserted.
+2024-11-17 20:15:31,247 - Transaction f4be10a0-cf80-4c65-82a4-c7ac9df3f632 already exists, not inserted.
+2024-11-17 20:15:31,247 - Transaction d973be63-5271-4285-84a0-710bb5ade920 already exists, not inserted.
+2024-11-17 20:15:31,247 - Transaction 4c788e9d-aa39-435e-b36a-5add79f34b84 already exists, not inserted.
+2024-11-17 20:15:31,247 - Transaction 507ca0e6-9b4d-4949-9b1b-18c4b6b0e1d0 already exists, not inserted.
+2024-11-17 20:15:31,247 - Transaction b8652622-0790-4b8a-a8bc-7556afe0eaf7 already exists, not inserted.
+2024-11-17 20:15:31,247 - Transaction 59ffbb09-df39-4e3a-b49b-a0b2cf4ac7f0 already exists, not inserted.
+2024-11-17 20:15:31,247 - Transaction ecd2aa18-1c13-4a6e-b115-a5de64fb43d4 already exists, not inserted.
+2024-11-17 20:15:31,248 - Transaction 1cc5aead-8950-4e3e-9c06-e51a589a74dc already exists, not inserted.
+2024-11-17 20:15:31,248 - Transaction b7798d76-e034-443f-9361-825ec2afc617 already exists, not inserted.
+2024-11-17 20:15:31,248 - Transaction 757228e6-1753-4909-ae67-7f49dc1a2303 already exists, not inserted.
+2024-11-17 20:15:31,248 - Transaction 823f2004-5d75-4f6a-9387-1cb5cd2104dc already exists, not inserted.
+2024-11-17 20:15:31,248 - Transaction 55de5c7f-19b7-4178-9937-01f9f62226e1 already exists, not inserted.
+2024-11-17 20:15:31,248 - Transaction 47a11e1c-fef9-409d-8a64-bcdcb1b51541 already exists, not inserted.
+2024-11-17 20:15:31,248 - Transaction bdf37d21-fb1d-4bfd-a4c4-d7ba0b0ea816 already exists, not inserted.
+2024-11-17 20:15:31,248 - Transaction 20eb14df-1f14-4415-ac99-7d87dd948f3f already exists, not inserted.
+2024-11-17 20:15:31,249 - Transaction d1a901c9-682d-4754-8df3-02d35ca2809f already exists, not inserted.
+2024-11-17 20:15:31,249 - Transaction 6077a6cc-c7bf-4f14-8c43-c26b021dbb07 already exists, not inserted.
+2024-11-17 20:15:31,249 - Transaction 2315c61f-4a10-4f16-996d-b6a9ef2c1bea already exists, not inserted.
+2024-11-17 20:15:31,249 - Transaction 08cfb12c-1252-4c62-9d29-90f309d8462b already exists, not inserted.
+2024-11-17 20:15:31,249 - Transaction 43dfdb0a-398a-43df-8cc9-d22db3a78356 already exists, not inserted.
+2024-11-17 20:15:31,249 - Transaction 5a081424-c1cb-43c0-a02e-ce7f80afe171 already exists, not inserted.
+2024-11-17 20:15:31,249 - Transaction 27c503f6-063b-48f1-a8f6-86b20e026832 already exists, not inserted.
+2024-11-17 20:15:31,249 - Transaction 8585bce3-a2cf-4307-b5b2-13b707c52bef already exists, not inserted.
+2024-11-17 20:15:31,250 - Transaction 1f2a34ee-c2d7-44fa-8c0a-6b085164f918 already exists, not inserted.
+2024-11-17 20:15:31,250 - Transaction 9c8be5ea-19cc-49f6-9cc9-9c29cf75b666 already exists, not inserted.
+2024-11-17 20:15:31,250 - Transaction 71ea8b25-2d89-4289-828c-5e33ff0f4f2c already exists, not inserted.
+2024-11-17 20:15:31,250 - Transaction 5b193c37-3483-43ea-90a2-c65aba459b6b already exists, not inserted.
+2024-11-17 20:15:31,250 - Transaction f61eaefc-6098-48a1-9926-861c551ea39e already exists, not inserted.
+2024-11-17 20:15:31,250 - Transaction dbe0668e-3007-4b0d-9304-ad2bdeed786e already exists, not inserted.
+2024-11-17 20:15:31,250 - Transaction 65e4c1a4-8ddd-42e5-a702-0f86d31678ba already exists, not inserted.
+2024-11-17 20:15:31,250 - Transaction d6300042-8201-4871-a252-d3bdfa915fcc already exists, not inserted.
+2024-11-17 20:15:31,251 - Transaction ff211ed9-a380-488e-a66c-246731a0a32c already exists, not inserted.
+2024-11-17 20:15:31,251 - Transaction d45e016e-764d-4547-98c4-0dfbfba74c27 already exists, not inserted.
+2024-11-17 20:15:31,251 - Transaction b5a392f5-4028-4f50-a374-5f7fd4aff542 already exists, not inserted.
+2024-11-17 20:15:31,251 - Transaction ff5865dc-61f8-41e5-8235-c45b0a29033b already exists, not inserted.
+2024-11-17 20:15:31,251 - Transaction 18940a5d-561f-4225-8b32-381975f5be6e already exists, not inserted.
+2024-11-17 20:15:31,251 - Total inserted: 0, Total not inserted: 100
+2024-11-17 20:36:19,219 - Inserted transaction 46d52873-57b3-4596-9d56-ea9c908e7fc4
+2024-11-17 20:36:19,220 - Inserted transaction 80340ca0-39b5-49b6-8f13-edfa6f566db9
+2024-11-17 20:36:19,220 - Inserted transaction a686baf0-d9af-4e10-9b84-331b02902494
+2024-11-17 20:36:19,221 - Inserted transaction 30c57a3e-8749-453d-935f-0e89c94e5e72
+2024-11-17 20:36:19,221 - Inserted transaction 25bad039-8a16-417c-b21f-01360cc300bd
+2024-11-17 20:36:19,222 - Inserted transaction e53ed333-fa5c-4e19-a524-1f442107adab
+2024-11-17 20:36:19,222 - Inserted transaction 2f99afbf-d7bf-4957-b6cf-30f4cf940b4f
+2024-11-17 20:36:19,223 - Inserted transaction 8ddb35ab-6209-4e0a-8e37-205ea9e4e82f
+2024-11-17 20:36:19,223 - Inserted transaction 5ca5a155-0ef7-4586-bd39-8f0356a0a5e8
+2024-11-17 20:36:19,224 - Inserted transaction f0d87df2-b077-418c-b187-b9a62808d611
+2024-11-17 20:36:19,224 - Inserted transaction b5b365c4-6333-4d42-86da-b0f5ddedd429
+2024-11-17 20:36:19,224 - Inserted transaction 08de2b34-63ad-451d-8122-58c3aa4617b5
+2024-11-17 20:36:19,224 - Inserted transaction a4610925-c6e4-4fe5-8f2c-397b6dd4d699
+2024-11-17 20:36:19,225 - Inserted transaction f81f59d2-5f2e-439d-9bf2-047d730ccbea
+2024-11-17 20:36:19,225 - Inserted transaction 24f267db-e358-4d4f-97a1-f79da4788336
+2024-11-17 20:36:19,225 - Inserted transaction 42ef92ba-32eb-4571-90fe-0823a4b8d2ce
+2024-11-17 20:36:19,225 - Inserted transaction 00dff7c4-b37e-4654-9b4e-e956683e157d
+2024-11-17 20:36:19,226 - Inserted transaction b5f24931-d2a1-4cd8-88eb-15c2a0c53cc5
+2024-11-17 20:36:19,226 - Inserted transaction ee54e781-0b6c-46ae-a78a-41ac51083eb1
+2024-11-17 20:36:19,226 - Inserted transaction 83bde3a8-db91-4497-a60e-bc869419385f
+2024-11-17 20:36:19,226 - Inserted transaction 4ad4fe7f-5eb3-49f3-a905-a3e86e6b7253
+2024-11-17 20:36:19,227 - Inserted transaction 4e7f486f-ab7a-4172-a5af-91fb31d5ed75
+2024-11-17 20:36:19,227 - Inserted transaction 048dbce3-f793-4247-a0a9-df909f5a690a
+2024-11-17 20:36:19,227 - Inserted transaction 50ffc701-c0ef-4f50-8310-d055322093a0
+2024-11-17 20:36:19,227 - Inserted transaction 732bc817-6e17-4147-a582-19ae36015dd2
+2024-11-17 20:36:19,228 - Inserted transaction c4db0e47-f19b-4fcc-8483-08e4a0bc4977
+2024-11-17 20:36:19,228 - Inserted transaction 82f03f1b-529e-485c-b6fb-f69c18f70361
+2024-11-17 20:36:19,229 - Inserted transaction 3d14d142-a2bb-4e53-b50e-1c2f99b4311b
+2024-11-17 20:36:19,229 - Inserted transaction add85e74-5d37-477e-8acf-0d6cbf5460b8
+2024-11-17 20:36:19,229 - Inserted transaction cc7b1054-4ec8-43d3-b2b3-3882d2bed362
+2024-11-17 20:36:19,230 - Inserted transaction 4d285a54-c4a3-4ce9-9fd3-b704f46d30a2
+2024-11-17 20:36:19,230 - Inserted transaction c2d50eb4-da2a-4696-bf91-c17f9ace8089
+2024-11-17 20:36:19,231 - Inserted transaction e42ff7de-74d7-4415-a044-f5ec27a23ee3
+2024-11-17 20:36:19,231 - Inserted transaction 8480db96-b19a-4342-b129-b94c2ecad7b4
+2024-11-17 20:36:19,231 - Inserted transaction 19e0e3e4-28ea-4789-b39b-e79e8012b7c9
+2024-11-17 20:36:19,231 - Inserted transaction b673cd03-b6fb-4d51-a509-8d83522b10ed
+2024-11-17 20:36:19,232 - Inserted transaction dd9a44fe-7598-4569-a0c3-1273c4974a30
+2024-11-17 20:36:19,232 - Inserted transaction 6b7f8e9b-dd6f-4aac-8f1c-13b662e4d78b
+2024-11-17 20:36:19,232 - Inserted transaction 5da5001b-999a-4d0e-9f3c-994bf8b44dfd
+2024-11-17 20:36:19,232 - Inserted transaction 6762aa1f-1198-4dee-b8e3-1a0b503aaecd
+2024-11-17 20:36:19,232 - Inserted transaction 1121852b-6571-4581-9966-99d645ea74ea
+2024-11-17 20:36:19,233 - Inserted transaction eb6c686f-9741-4646-a562-68dbe981fbe6
+2024-11-17 20:36:19,233 - Inserted transaction e6586847-f9e7-4177-8f5b-244fc836e757
+2024-11-17 20:36:19,233 - Inserted transaction 46ebeeec-0ade-4f6d-99fc-88580600bf76
+2024-11-17 20:36:19,233 - Inserted transaction 6ec3b7ec-3aaa-42ac-b390-d2408de4c519
+2024-11-17 20:36:19,233 - Inserted transaction dcf19a72-b622-483b-9fcc-39eb15a5a789
+2024-11-17 20:36:19,233 - Inserted transaction bacd264f-3d01-4256-b924-be3bebcba58c
+2024-11-17 20:36:19,233 - Inserted transaction ed9588a9-51dd-40f2-b247-6aa25ff4a033
+2024-11-17 20:36:19,233 - Inserted transaction 55a2f495-a527-470a-8bc6-f9cca3852c25
+2024-11-17 20:36:19,233 - Inserted transaction ce9b5320-249e-47b8-af19-7eb486871339
+2024-11-17 20:36:19,233 - Inserted transaction dca7590a-4316-49cb-ba4a-be16ad4996b6
+2024-11-17 20:36:19,233 - Inserted transaction 2b8b01c8-cc98-4735-905d-3109f60d4d37
+2024-11-17 20:36:19,234 - Inserted transaction 2750a47c-9bda-420b-a631-4cce94864f33
+2024-11-17 20:36:19,234 - Inserted transaction ed994d03-1370-4604-bdd8-e2d799e0ce69
+2024-11-17 20:36:19,234 - Inserted transaction 9cd811b9-59d1-4b57-a41b-b765ea89aa51
+2024-11-17 20:36:19,234 - Inserted transaction 8a30c106-c00e-4d13-8517-d54f6ae36f80
+2024-11-17 20:36:19,234 - Inserted transaction 8dc7c8ca-63dd-4070-a6bf-d4b9c66829d2
+2024-11-17 20:36:19,234 - Inserted transaction ebac7f9f-a72c-4936-95c9-1963b75b80c5
+2024-11-17 20:36:19,234 - Inserted transaction c942ae56-dba8-4a14-b380-a708b73d7486
+2024-11-17 20:36:19,234 - Inserted transaction e5a40a76-a617-461d-a1d3-30973827deb0
+2024-11-17 20:36:19,234 - Inserted transaction 9f41b82a-b39a-4c37-bb88-5d52b7a4248a
+2024-11-17 20:36:19,234 - Inserted transaction c7e5852e-5551-43b6-8f31-28ab2334e1d3
+2024-11-17 20:36:19,234 - Inserted transaction ebc85f08-d58e-4c07-b2aa-8a0f5ac1f14f
+2024-11-17 20:36:19,235 - Inserted transaction 8ae28b39-464a-4b5c-b438-f73e662e2cd2
+2024-11-17 20:36:19,235 - Inserted transaction 8206f506-886f-44fd-9753-e419b084f362
+2024-11-17 20:36:19,235 - Inserted transaction 3159894e-ca2d-4c4a-947d-3ab5ee940157
+2024-11-17 20:36:19,235 - Inserted transaction b7397125-cf28-4291-99b1-3cddb7c8a090
+2024-11-17 20:36:19,235 - Inserted transaction b99368b4-44d7-4b0f-a755-4d3ff3ed3735
+2024-11-17 20:36:19,235 - Inserted transaction 32fdf287-b66e-4ab0-9eb0-722a741b9f15
+2024-11-17 20:36:19,235 - Inserted transaction f83b9767-e1fe-4413-98c5-e2fff1d77e16
+2024-11-17 20:36:19,235 - Inserted transaction fc0e3700-8e73-46d7-bd12-80edd851ddbe
+2024-11-17 20:36:19,235 - Inserted transaction 714b7741-f135-4081-92e9-789f49d69c49
+2024-11-17 20:36:19,235 - Inserted transaction cfb4714b-b116-4f21-9b1f-a148790b77f2
+2024-11-17 20:36:19,236 - Inserted transaction 119918ba-7f69-4af1-ae6b-a15735b5c18d
+2024-11-17 20:36:19,236 - Inserted transaction 55399b2c-d3ad-401f-9057-8a43c5ada2a7
+2024-11-17 20:36:19,236 - Inserted transaction 45ba3b07-e590-4567-a7c8-71c719d9ce7e
+2024-11-17 20:36:19,236 - Inserted transaction 7b61ac97-1eb7-42c4-b92f-97a653b70b09
+2024-11-17 20:36:19,236 - Inserted transaction 677426ad-2c6d-4303-ba45-b950ab67f972
+2024-11-17 20:36:19,236 - Inserted transaction 9ca9853b-1b88-4190-b5bb-7eac2c62f4cf
+2024-11-17 20:36:19,236 - Inserted transaction 97fab541-dedf-45df-a50e-f23e671c3b8e
+2024-11-17 20:36:19,236 - Inserted transaction f2452eb0-add2-4b35-9457-d2e40ea576db
+2024-11-17 20:36:19,236 - Inserted transaction 2df50488-dfce-4c0c-8541-afc0c45426f7
+2024-11-17 20:36:19,236 - Inserted transaction 6ca5b70a-b7c9-473e-88bf-9bd3c393af9b
+2024-11-17 20:36:19,236 - Inserted transaction 383d38a1-4f4d-4662-be71-c6093d45873e
+2024-11-17 20:36:19,237 - Inserted transaction a32b359d-38d3-474a-b4b0-730b35bcbe39
+2024-11-17 20:36:19,237 - Inserted transaction a634053b-0a49-4199-85df-0d6d23b0f4ae
+2024-11-17 20:36:19,237 - Inserted transaction 61499e5f-ea45-42e3-b942-4313cc38d7b7
+2024-11-17 20:36:19,237 - Inserted transaction f837a718-6368-4c4c-824f-49f23f77ac1a
+2024-11-17 20:36:19,237 - Inserted transaction d397996d-427c-47d4-a1ec-5585991ae7ad
+2024-11-17 20:36:19,237 - Inserted transaction c7a1498f-fda6-426a-bf1d-7ba121a58315
+2024-11-17 20:36:19,237 - Inserted transaction 758060b6-f68f-45bb-94ca-b65c1a6fb25b
+2024-11-17 20:36:19,237 - Inserted transaction 9f16a807-b323-4cb7-9640-ce753d81f2f9
+2024-11-17 20:36:19,237 - Inserted transaction fefbc833-91df-4283-92d7-93b9067962ad
+2024-11-17 20:36:19,237 - Inserted transaction 4944de9e-dcba-4458-8a22-ebf0db357f5c
+2024-11-17 20:36:19,237 - Inserted transaction 5efb43da-d08b-4e92-a822-00c4529166d8
+2024-11-17 20:36:19,238 - Inserted transaction 314133bb-0b40-488d-8d60-0677c46088e3
+2024-11-17 20:36:19,238 - Inserted transaction 2d4fd7ab-e130-4986-8132-f23892bfabfb
+2024-11-17 20:36:19,238 - Inserted transaction 67118925-d051-4ff3-8806-b45dc44d3a8c
+2024-11-17 20:36:19,238 - Inserted transaction ff6d84a8-855e-4a78-a430-f1bde4094c22
+2024-11-17 20:36:19,238 - Inserted transaction 67b5a850-e6d0-446f-88c1-c5967710e482
+2024-11-17 20:36:19,256 - Total inserted: 100, Total not inserted: 0
+2024-11-17 20:36:45,090 - Transaction 46d52873-57b3-4596-9d56-ea9c908e7fc4 already exists, not inserted.
+2024-11-17 20:36:45,091 - Transaction 80340ca0-39b5-49b6-8f13-edfa6f566db9 already exists, not inserted.
+2024-11-17 20:36:45,092 - Transaction a686baf0-d9af-4e10-9b84-331b02902494 already exists, not inserted.
+2024-11-17 20:36:45,092 - Transaction 30c57a3e-8749-453d-935f-0e89c94e5e72 already exists, not inserted.
+2024-11-17 20:36:45,092 - Transaction 25bad039-8a16-417c-b21f-01360cc300bd already exists, not inserted.
+2024-11-17 20:36:45,093 - Transaction e53ed333-fa5c-4e19-a524-1f442107adab already exists, not inserted.
+2024-11-17 20:36:45,093 - Transaction 2f99afbf-d7bf-4957-b6cf-30f4cf940b4f already exists, not inserted.
+2024-11-17 20:36:45,093 - Transaction 8ddb35ab-6209-4e0a-8e37-205ea9e4e82f already exists, not inserted.
+2024-11-17 20:36:45,094 - Transaction 5ca5a155-0ef7-4586-bd39-8f0356a0a5e8 already exists, not inserted.
+2024-11-17 20:36:45,094 - Transaction f0d87df2-b077-418c-b187-b9a62808d611 already exists, not inserted.
+2024-11-17 20:36:45,094 - Transaction b5b365c4-6333-4d42-86da-b0f5ddedd429 already exists, not inserted.
+2024-11-17 20:36:45,094 - Transaction 08de2b34-63ad-451d-8122-58c3aa4617b5 already exists, not inserted.
+2024-11-17 20:36:45,095 - Transaction a4610925-c6e4-4fe5-8f2c-397b6dd4d699 already exists, not inserted.
+2024-11-17 20:36:45,095 - Transaction f81f59d2-5f2e-439d-9bf2-047d730ccbea already exists, not inserted.
+2024-11-17 20:36:45,095 - Transaction 24f267db-e358-4d4f-97a1-f79da4788336 already exists, not inserted.
+2024-11-17 20:36:45,095 - Transaction 42ef92ba-32eb-4571-90fe-0823a4b8d2ce already exists, not inserted.
+2024-11-17 20:36:45,095 - Transaction 00dff7c4-b37e-4654-9b4e-e956683e157d already exists, not inserted.
+2024-11-17 20:36:45,096 - Transaction b5f24931-d2a1-4cd8-88eb-15c2a0c53cc5 already exists, not inserted.
+2024-11-17 20:36:45,096 - Transaction ee54e781-0b6c-46ae-a78a-41ac51083eb1 already exists, not inserted.
+2024-11-17 20:36:45,096 - Transaction 83bde3a8-db91-4497-a60e-bc869419385f already exists, not inserted.
+2024-11-17 20:36:45,096 - Transaction 4ad4fe7f-5eb3-49f3-a905-a3e86e6b7253 already exists, not inserted.
+2024-11-17 20:36:45,097 - Transaction 4e7f486f-ab7a-4172-a5af-91fb31d5ed75 already exists, not inserted.
+2024-11-17 20:36:45,097 - Transaction 048dbce3-f793-4247-a0a9-df909f5a690a already exists, not inserted.
+2024-11-17 20:36:45,097 - Transaction 50ffc701-c0ef-4f50-8310-d055322093a0 already exists, not inserted.
+2024-11-17 20:36:45,097 - Transaction 732bc817-6e17-4147-a582-19ae36015dd2 already exists, not inserted.
+2024-11-17 20:36:45,098 - Transaction c4db0e47-f19b-4fcc-8483-08e4a0bc4977 already exists, not inserted.
+2024-11-17 20:36:45,098 - Transaction 82f03f1b-529e-485c-b6fb-f69c18f70361 already exists, not inserted.
+2024-11-17 20:36:45,098 - Transaction 3d14d142-a2bb-4e53-b50e-1c2f99b4311b already exists, not inserted.
+2024-11-17 20:36:45,098 - Transaction add85e74-5d37-477e-8acf-0d6cbf5460b8 already exists, not inserted.
+2024-11-17 20:36:45,099 - Transaction cc7b1054-4ec8-43d3-b2b3-3882d2bed362 already exists, not inserted.
+2024-11-17 20:36:45,099 - Transaction 4d285a54-c4a3-4ce9-9fd3-b704f46d30a2 already exists, not inserted.
+2024-11-17 20:36:45,099 - Transaction c2d50eb4-da2a-4696-bf91-c17f9ace8089 already exists, not inserted.
+2024-11-17 20:36:45,099 - Transaction e42ff7de-74d7-4415-a044-f5ec27a23ee3 already exists, not inserted.
+2024-11-17 20:36:45,099 - Transaction 8480db96-b19a-4342-b129-b94c2ecad7b4 already exists, not inserted.
+2024-11-17 20:36:45,099 - Transaction 19e0e3e4-28ea-4789-b39b-e79e8012b7c9 already exists, not inserted.
+2024-11-17 20:36:45,099 - Transaction b673cd03-b6fb-4d51-a509-8d83522b10ed already exists, not inserted.
+2024-11-17 20:36:45,099 - Transaction dd9a44fe-7598-4569-a0c3-1273c4974a30 already exists, not inserted.
+2024-11-17 20:36:45,100 - Transaction 6b7f8e9b-dd6f-4aac-8f1c-13b662e4d78b already exists, not inserted.
+2024-11-17 20:36:45,100 - Transaction 5da5001b-999a-4d0e-9f3c-994bf8b44dfd already exists, not inserted.
+2024-11-17 20:36:45,100 - Transaction 6762aa1f-1198-4dee-b8e3-1a0b503aaecd already exists, not inserted.
+2024-11-17 20:36:45,100 - Transaction 1121852b-6571-4581-9966-99d645ea74ea already exists, not inserted.
+2024-11-17 20:36:45,100 - Transaction eb6c686f-9741-4646-a562-68dbe981fbe6 already exists, not inserted.
+2024-11-17 20:36:45,100 - Transaction e6586847-f9e7-4177-8f5b-244fc836e757 already exists, not inserted.
+2024-11-17 20:36:45,100 - Transaction 46ebeeec-0ade-4f6d-99fc-88580600bf76 already exists, not inserted.
+2024-11-17 20:36:45,100 - Transaction 6ec3b7ec-3aaa-42ac-b390-d2408de4c519 already exists, not inserted.
+2024-11-17 20:36:45,101 - Transaction dcf19a72-b622-483b-9fcc-39eb15a5a789 already exists, not inserted.
+2024-11-17 20:36:45,101 - Transaction bacd264f-3d01-4256-b924-be3bebcba58c already exists, not inserted.
+2024-11-17 20:36:45,101 - Transaction ed9588a9-51dd-40f2-b247-6aa25ff4a033 already exists, not inserted.
+2024-11-17 20:36:45,101 - Transaction 55a2f495-a527-470a-8bc6-f9cca3852c25 already exists, not inserted.
+2024-11-17 20:36:45,101 - Transaction ce9b5320-249e-47b8-af19-7eb486871339 already exists, not inserted.
+2024-11-17 20:36:45,101 - Transaction dca7590a-4316-49cb-ba4a-be16ad4996b6 already exists, not inserted.
+2024-11-17 20:36:45,101 - Transaction 2b8b01c8-cc98-4735-905d-3109f60d4d37 already exists, not inserted.
+2024-11-17 20:36:45,101 - Transaction 2750a47c-9bda-420b-a631-4cce94864f33 already exists, not inserted.
+2024-11-17 20:36:45,102 - Transaction ed994d03-1370-4604-bdd8-e2d799e0ce69 already exists, not inserted.
+2024-11-17 20:36:45,102 - Transaction 9cd811b9-59d1-4b57-a41b-b765ea89aa51 already exists, not inserted.
+2024-11-17 20:36:45,102 - Transaction 8a30c106-c00e-4d13-8517-d54f6ae36f80 already exists, not inserted.
+2024-11-17 20:36:45,102 - Transaction 8dc7c8ca-63dd-4070-a6bf-d4b9c66829d2 already exists, not inserted.
+2024-11-17 20:36:45,102 - Transaction ebac7f9f-a72c-4936-95c9-1963b75b80c5 already exists, not inserted.
+2024-11-17 20:36:45,102 - Transaction c942ae56-dba8-4a14-b380-a708b73d7486 already exists, not inserted.
+2024-11-17 20:36:45,102 - Transaction e5a40a76-a617-461d-a1d3-30973827deb0 already exists, not inserted.
+2024-11-17 20:36:45,102 - Transaction 9f41b82a-b39a-4c37-bb88-5d52b7a4248a already exists, not inserted.
+2024-11-17 20:36:45,102 - Transaction c7e5852e-5551-43b6-8f31-28ab2334e1d3 already exists, not inserted.
+2024-11-17 20:36:45,103 - Transaction ebc85f08-d58e-4c07-b2aa-8a0f5ac1f14f already exists, not inserted.
+2024-11-17 20:36:45,103 - Transaction 8ae28b39-464a-4b5c-b438-f73e662e2cd2 already exists, not inserted.
+2024-11-17 20:36:45,103 - Transaction 8206f506-886f-44fd-9753-e419b084f362 already exists, not inserted.
+2024-11-17 20:36:45,103 - Transaction 3159894e-ca2d-4c4a-947d-3ab5ee940157 already exists, not inserted.
+2024-11-17 20:36:45,103 - Transaction b7397125-cf28-4291-99b1-3cddb7c8a090 already exists, not inserted.
+2024-11-17 20:36:45,103 - Transaction b99368b4-44d7-4b0f-a755-4d3ff3ed3735 already exists, not inserted.
+2024-11-17 20:36:45,103 - Transaction 32fdf287-b66e-4ab0-9eb0-722a741b9f15 already exists, not inserted.
+2024-11-17 20:36:45,104 - Transaction f83b9767-e1fe-4413-98c5-e2fff1d77e16 already exists, not inserted.
+2024-11-17 20:36:45,104 - Transaction fc0e3700-8e73-46d7-bd12-80edd851ddbe already exists, not inserted.
+2024-11-17 20:36:45,104 - Transaction 714b7741-f135-4081-92e9-789f49d69c49 already exists, not inserted.
+2024-11-17 20:36:45,104 - Transaction cfb4714b-b116-4f21-9b1f-a148790b77f2 already exists, not inserted.
+2024-11-17 20:36:45,104 - Transaction 119918ba-7f69-4af1-ae6b-a15735b5c18d already exists, not inserted.
+2024-11-17 20:36:45,104 - Transaction 55399b2c-d3ad-401f-9057-8a43c5ada2a7 already exists, not inserted.
+2024-11-17 20:36:45,104 - Transaction 45ba3b07-e590-4567-a7c8-71c719d9ce7e already exists, not inserted.
+2024-11-17 20:36:45,104 - Transaction 7b61ac97-1eb7-42c4-b92f-97a653b70b09 already exists, not inserted.
+2024-11-17 20:36:45,104 - Transaction 677426ad-2c6d-4303-ba45-b950ab67f972 already exists, not inserted.
+2024-11-17 20:36:45,105 - Transaction 9ca9853b-1b88-4190-b5bb-7eac2c62f4cf already exists, not inserted.
+2024-11-17 20:36:45,105 - Transaction 97fab541-dedf-45df-a50e-f23e671c3b8e already exists, not inserted.
+2024-11-17 20:36:45,105 - Transaction f2452eb0-add2-4b35-9457-d2e40ea576db already exists, not inserted.
+2024-11-17 20:36:45,105 - Transaction 2df50488-dfce-4c0c-8541-afc0c45426f7 already exists, not inserted.
+2024-11-17 20:36:45,105 - Transaction 6ca5b70a-b7c9-473e-88bf-9bd3c393af9b already exists, not inserted.
+2024-11-17 20:36:45,105 - Transaction 383d38a1-4f4d-4662-be71-c6093d45873e already exists, not inserted.
+2024-11-17 20:36:45,105 - Transaction a32b359d-38d3-474a-b4b0-730b35bcbe39 already exists, not inserted.
+2024-11-17 20:36:45,105 - Transaction a634053b-0a49-4199-85df-0d6d23b0f4ae already exists, not inserted.
+2024-11-17 20:36:45,106 - Transaction 61499e5f-ea45-42e3-b942-4313cc38d7b7 already exists, not inserted.
+2024-11-17 20:36:45,106 - Transaction f837a718-6368-4c4c-824f-49f23f77ac1a already exists, not inserted.
+2024-11-17 20:36:45,106 - Transaction d397996d-427c-47d4-a1ec-5585991ae7ad already exists, not inserted.
+2024-11-17 20:36:45,106 - Transaction c7a1498f-fda6-426a-bf1d-7ba121a58315 already exists, not inserted.
+2024-11-17 20:36:45,106 - Transaction 758060b6-f68f-45bb-94ca-b65c1a6fb25b already exists, not inserted.
+2024-11-17 20:36:45,106 - Transaction 9f16a807-b323-4cb7-9640-ce753d81f2f9 already exists, not inserted.
+2024-11-17 20:36:45,106 - Transaction fefbc833-91df-4283-92d7-93b9067962ad already exists, not inserted.
+2024-11-17 20:36:45,106 - Transaction 4944de9e-dcba-4458-8a22-ebf0db357f5c already exists, not inserted.
+2024-11-17 20:36:45,107 - Transaction 5efb43da-d08b-4e92-a822-00c4529166d8 already exists, not inserted.
+2024-11-17 20:36:45,107 - Transaction 314133bb-0b40-488d-8d60-0677c46088e3 already exists, not inserted.
+2024-11-17 20:36:45,107 - Transaction 2d4fd7ab-e130-4986-8132-f23892bfabfb already exists, not inserted.
+2024-11-17 20:36:45,107 - Transaction 67118925-d051-4ff3-8806-b45dc44d3a8c already exists, not inserted.
+2024-11-17 20:36:45,107 - Transaction ff6d84a8-855e-4a78-a430-f1bde4094c22 already exists, not inserted.
+2024-11-17 20:36:45,107 - Transaction 67b5a850-e6d0-446f-88c1-c5967710e482 already exists, not inserted.
+2024-11-17 20:36:45,107 - Total inserted: 0, Total not inserted: 100
