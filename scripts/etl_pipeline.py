@@ -7,16 +7,16 @@ import sqlite3
 import logging
 from cryptography.fernet import Fernet
 
-# Generate a key for encryption and decryption
+# Generar una clave para encryption y decryption
 key = Fernet.generate_key()
 cipher_suite = Fernet(key)
 
 # Loggin file
 logging.basicConfig(filename='transaction_logs.txt', level=logging.INFO, format='%(asctime)s - %(message)s')
 
-## Functions
+## Funciones
 
-### 1. Create mock data to complete the exercise, ensuring that it reflects realistic sales transaction scenarios.
+### 1. Cree datos simulados para completar el ejercicio, asegurándose de que reflejan escenarios realistas de transacciones de venta.
 
 def data_transaction_generator(no_rows=int, export=bool):
     fake = Faker()
@@ -42,7 +42,7 @@ def data_transaction_generator(no_rows=int, export=bool):
 
     return df
 
-### 2. Encrypt sensitive information
+### 2. Encrypt información sensible
 
 def encrypt_sensitive_data(df):
     df['customer_id'] = df['customer_id'].apply(lambda x: cipher_suite.encrypt(x.encode()).decode())
